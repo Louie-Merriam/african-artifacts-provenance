@@ -1,0 +1,18 @@
+{
+  "_comment": "Red-flag rules used by bm_provenance_extractor.py to compute a coarse flag_score during normalization. This is the EXTRACTOR's keyword pre-filter (deliberately broad); the real judgment happens later in bm_adjudicate.py against redflags_africa.json. Each rule: id, description, weight, any_keywords (OR regex), all_keywords (AND regex), year_min/year_max, fields. Case-insensitive.",
+  "rules": [
+    {"id": "military_seizure", "description": "Language indicating the object was taken by force or in war", "weight": 5, "any_keywords": ["looted", "plunder", "pillage", "spoils of war", "war booty", "seized", "captured", "sacked", "taken from the palace", "taken during"]},
+    {"id": "punitive_expedition", "description": "Explicit reference to a colonial punitive/military expedition", "weight": 5, "any_keywords": ["punitive expedition", "punitive raid", "expeditionary force", "military expedition", "bombardment", "storming of", "fall of"]},
+    {"id": "benin_1897", "description": "Benin punitive expedition (1897)", "weight": 5, "any_keywords": ["benin"], "year_min": 1897, "year_max": 1905},
+    {"id": "maqdala_1868", "description": "Capture of Maqdala / Magdala, Ethiopia (1868)", "weight": 5, "any_keywords": ["maqdala", "magdala", "abyssinia", "theodore|tewodros"]},
+    {"id": "asante_1874_1896", "description": "Anglo-Asante wars / sack of Kumasi", "weight": 4, "any_keywords": ["asante", "ashanti", "kumasi", "kumase"]},
+    {"id": "presented_by_officer", "description": "Donated by a named military/colonial officer", "weight": 3, "all_keywords": ["presented by|donated by|gift of|bequeathed by", "general|colonel|captain|major|lieutenant|admiral|brigadier|commander|governor|consul|viceroy|commissioner"]},
+    {"id": "collected_by_expedition", "description": "Object 'collected' during an expedition/campaign", "weight": 3, "any_keywords": ["collected during", "collected on the", "acquired during the", "obtained during", "during the campaign", "during the expedition"]},
+    {"id": "excavated_and_exported", "description": "Archaeological object excavated abroad and removed", "weight": 2, "fields": ["acquisition_excavator", "acquisition_notes", "findspot"], "any_keywords": ["excavat", "excavator", "dug up", "unearthed", "removed from the site", "exported"]},
+    {"id": "colonial_administration", "description": "Acquired via colonial administration / company rule", "weight": 3, "any_keywords": ["east india company", "royal niger company", "colonial office", "protectorate", "district officer", "district commissioner", "resident magistrate", "imperial british east africa", "gold coast government"]},
+    {"id": "missionary_collected", "description": "Collected by a missionary", "weight": 2, "any_keywords": ["missionary", "mission station", "church missionary society"]},
+    {"id": "high_colonial_era", "description": "Acquired at the height of empire (1860-1920)", "weight": 1, "year_min": 1860, "year_max": 1920},
+    {"id": "human_remains", "description": "Human / ancestral remains", "weight": 4, "any_keywords": ["human remains", "skull", "skeleton", "mummy", "mummified", "ancestral remains", "bones of", "cranium"]},
+    {"id": "sacred_ceremonial", "description": "Sacred / ceremonial object", "weight": 2, "any_keywords": ["sacred", "ceremonial", "ritual", "altar", "shrine", "idol", "deity", "funerary", "reliquary", "regalia", "tabot"]}
+  ]
+}

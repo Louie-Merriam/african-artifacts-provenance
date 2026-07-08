@@ -1,0 +1,637 @@
+# SOURCES — documentary basis for every watchlist name
+
+Every entry below is a *documented provenance association*: a suspicion signal for review, not proof of wrongdoing.
+Registries: ora = Open Restitution Africa case studies; proveana_paese = Proveana (German Lost Art Foundation) + PAESE index entries (index-derived flags note the registry's occupation/context tags; Proveana person URLs follow the site's slug pattern, spot-verified); episodes_* = web-verified episode research; market = tribal-art market research.
+
+
+## Actors
+
+- **Adam Mischlich** (episodes_german)
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **Adolf Bastian** (episodes_german)
+  - about-africa.de citing SMB provenance research — https://www.about-africa.de/kamerun-nigeria/108-tradition-innovation-geschichte-bamum-sammlung-berlin
+- **Adolf Diehl** (episodes_german)
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **Albert Peter** (proveana_paese)
+  - PAESE Database — https://www.postcolonial-provenance-research.com/en/database/
+- **Aleš Hrdlička** (ora)
+  - ORA: Kabwe Man — https://openrestitution.africa/case-study/kabwe-man/
+- **Alexander Dunlop** (ora)
+  - ORA: The Repatriation of Sara Baartman — https://openrestitution.africa/case-study/3609/
+- **Alexandre Delcommune** (episodes_french_belgian)
+  - AfricaMuseum provenance: Nkisi Nkonde — https://www.africamuseum.be/en/learn/provenance/nkisi-nkonde
+- **Alfred Claud Hollis** (ora)
+  - ORA: The Return of Ngadji — https://openrestitution.africa/case-study/the-return-of-ngadji-a-sacred-drum-stolen-from-the-pokomo-people/
+- **Alfred Mansfeld** (proveana_paese)
+  - Proveana person — https://www.proveana.de/de/person/mansfeld-alfred
+- **Alfred Walter Francis Fuller** (market)
+  - Journal of the History of Collections 29:1 — https://academic.oup.com/jhc/article/29/1/109/2503285
+- **Alfred-Amédée Dodds** (episodes_french_belgian)
+  - Quai Branly restitution page — https://m.quaibranly.fr/en/collections/living-collections/news/restitution-of-26-works-to-the-republic-of-benin ; Artnet — https://news.artnet.com/art-world/quai-branly-benin-restitution-2025098
+- **André Debénath** (ora)
+  - ORA: Bones of Returned Memory — https://openrestitution.africa/case-study/bones-of-returned-memory-the-repatriation-of-neolithic-skeletons-from-bordeaux-to-rabat/
+- **Anton Codelli** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/codelli-anton
+- **Arnold Ridyard** (market)
+  - Tythacott, 'From the Fetish to the Specimen' — https://eprints.soas.ac.uk/18676/ ; NML African collections — https://www.liverpoolmuseums.org.uk/collections/world-cultures/african-collections
+- **Arthur Smith Woodward** (ora)
+  - ORA: Kabwe Man — https://openrestitution.africa/case-study/kabwe-man/
+- **Arthur von Gwinner** (episodes_german)
+  - ArThemis case note — https://plone.unige.ch/art-adr/cases-affaires/20-skulls-of-colonial-victims-2013-namibia-and-charite-universitatsmedizin-berlin
+- **Bernard Quaritch** (episodes_british)
+  - Who was the Good Lady Meux? — https://tigraionline.com/articles/article11026.html
+- **Bernhard Ankermann** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/ankermann-bernhard
+- **Bruno von Schuckmann** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/schuckmann-bruno
+- **Carl Gustav Carus** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/carus-carl-gustav
+- **Carl Mathias Goedelt** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/goedelt-carl-mathias
+- **Carl Niemann** (proveana_paese)
+  - PAESE database — https://www.postcolonial-provenance-research.com/en/database/
+- **Carl Peters** (episodes_german)
+  - Carl Peters primary-source collection — https://www.academia.edu/117869839/
+- **Carl Spiess** (episodes_german)
+  - Übersee-Museum Bremen — https://www.uebersee-museum.de/veranstaltung/items-out-of-place/ ; Norddeutsche Mission — https://www.norddeutschemission.de/details/die-sammlung-carl-spiess-626
+- **Cecil Rhodes** (episodes_british)
+  - Zimbabwe Bird — https://en.wikipedia.org/wiki/Zimbabwe_Bird ; African History Extra — https://www.africanhistoryextra.com/p/stone-palaces-in-the-mountains-great
+- **Charles Lemaire** (episodes_french_belgian)
+  - Charles Lemaire — https://fr.wikipedia.org/wiki/Charles_Lemaire_(explorateur) ; RMCA archives Fonds Lemaire — https://archives.africamuseum.be/repositories/2/resources/181
+- **Charles Partridge** (episodes_british)
+  - Charles Partridge (anthropologist) — https://en.wikipedia.org/wiki/Charles_Partridge_(anthropologist)
+- **Charles Ratton** (market)
+  - Met Modern Art Index: Ratton — https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/ratton
+- **Christian Fetzer** (episodes_german)
+  - Cornelius Frederiks — https://en.wikipedia.org/wiki/Cornelius_Frederiks
+- **Colonel Frazer (Maqdala 1868)** (episodes_british)  **[context_required]**
+  - Pankhurst/AFROMET — http://www.afromet.info/history/
+- **Constant de Deken** (episodes_french_belgian)
+  - RMCA ReThinking Collections press kit 2024 — https://press.africamuseum.be/sites/default/files/media/ReThinking%20Collections/Persdossier_ExpoReThinkingColections_2024_EN_WEB.pdf
+- **Curt von François** (episodes_german)
+  - Proveana event: Überfall auf Hornkranz — https://www.proveana.de/en/event/uberfall-auf-hornkranz-vom-12-april-1893
+- **Curt von Morgen** (episodes_german)  **[exclude_all]**
+  - Verification note (see episodes_german source_note)
+- **Curt von Pavel** (ora)
+  - ORA: The Restitution Journey of Ngonnso — https://openrestitution.africa/case-study/the-restitution-journey-of-ngonnso-from-the-nso-kingdom-in-cameroon/
+- **Eckart von Sydow** (ora)
+  - ORA: Benin Royal Stools — https://openrestitution.africa/case-study/the-restitution-efforts-of-oba-akenzua-ii-and-the-significance-of-the-benin-royal-stools/
+- **Édouard Verreaux** (ora)
+  - ORA: Masalela — https://openrestitution.africa/case-study/masalela-a-monna-wa-mosarwa-a-boetse-gae-the-remains-of-the-mosarwa-man-have-returned-home/
+- **Eduard Amandus Lippert** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/lippert-eduard-amandus
+- **Eduard Robert Flegel** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/flegel-eduard-robert
+- **Eduard Schmidt (Benin trader, 1860-1899)** (proveana_paese)  **[context_required]**
+  - Proveana person — https://www.proveana.de/en/person/schmidt-eduard
+- **Emil Ludwig Schmidt** (proveana_paese)  **[context_required]**
+  - Proveana person — https://www.proveana.de/en/person/schmidt-emil-ludwig
+- **Emil Torday** (episodes_french_belgian)
+  - Emil Torday — https://en.wikipedia.org/wiki/Emil_Torday ; BM term BIOG128993 — https://www.britishmuseum.org/collection/term/BIOG128993
+- **Émile Storms** (episodes_french_belgian)
+  - AfricaMuseum provenance: Storms — https://www.africamuseum.be/en/learn/provenance/storms
+- **Éric Lutten** (episodes_french_belgian)
+  - Quai Branly Dakar-Djibouti provenance page — https://m.quaibranly.fr/en/collections/living-collections/provenances-of-the-collections/mission-dakar-djibouti-1931-1933
+- **Eric von Rosen** (ora)
+  - ORA: Lechwe Skin Cloaks of the Batwa — https://openrestitution.africa/case-study/redressing-and-addressing-the-lechwe-skin-cloaks-of-the-batwa-people-1912-2025/
+- **Erich Kling** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/kling-erich
+- **Erich Obst** (ora)
+  - ORA: Isanzu Community Perspectives — https://openrestitution.africa/case-study/isanzu-community-perspectives-on-ancestral-human-remains-restitution-to-tanzania/
+- **Ernest Alfred Wallis Budge** (episodes_british)
+  - Pankhurst/AFROMET — http://www.afromet.info/history/
+- **Ernest Ascher** (market)
+  - Michael Hamson provenance pages: Ernest Ascher — https://oceanicart.com/PROVENANCE/Ernest-Ascher/1
+- **Ernie Wolfe III** (ora)
+  - ORA: Offer to Return 27 Vigango — https://openrestitution.africa/case-study/offer-to-return-27-vigango/
+- **Ernst F. Gütschow** (episodes_german)
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **Eugen Fischer** (episodes_german)
+  - University of Freiburg press release 04.03.2014 — https://kommunikation.uni-freiburg.de/pm-en/2014/pm.2014-03-04.18-en
+- **Eugen Zimmerer** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/zimmerer-eugen
+- **Eugen Zintgraff** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/zintgraff-eugen
+- **Eva Cutter** (market)
+  - Pitt Rivers 'Rethinking Pitt-Rivers': Dealers and Auctioneers — https://web.prm.ox.ac.uk/rpr/index.php/article-index/12-articles/139-dealers-and-auctioneers.html
+- **F. Staschewski** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/staschewski-f
+- **Felix von Luschan** (episodes_german)
+  - SPK press release 22.04.2026 (West Africa skulls) — https://www.preussischer-kulturbesitz.de/pressemitteilung/artikel/2026/04/22/ ; SMB em||power||relations booklet — https://www.smb.museum/fileadmin/website/Orte/Humboldtforum/Provenienzforschung/power_relations_provenance_research_at_the_Humboldt_Forum.pdf
+- **Fenton & Sons** (market)
+  - Pitt Rivers 'Rethinking Pitt-Rivers'; BM term — https://www.britishmuseum.org/collection/term/BIOG69436
+- **Ferdinand Oskar Marx** (proveana_paese, episodes_german)
+  - Proveana person — https://www.proveana.de/en/person/marx-ferdinand-oskar
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **Francis Reginald Wingate** (episodes_british)
+  - Durham Sudan Archive — https://reed.dur.ac.uk/xtf/view?docId=ark%2F32150_s1f4752g79m.xml
+- **Franklin Macaulay Gillespie** (episodes_british)
+  - NMS Baggage and Belonging: Royal Welsh, Brecon — https://files.nms.ac.uk/production/Documents/Research/Baggage-and-Belonging-Catalogues/regimental-museum-of-the-royal-welsh-brecon.pdf
+- **Franz Hutter** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/hutter-franz
+- **Franz Reuter** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/reuter-franz
+- **Franz Stuhlmann** (proveana_paese)
+  - PAESE subproject 'Trade Routes and Networks' — https://www.postcolonial-provenance-research.com/en/paese/teilprojekte/trade-routes-and-networks/
+- **Frederick Lugard** (episodes_british)
+  - Vanguard 2022 — https://www.vanguardngr.com/2022/09/1903-invasion-sokoto-caliphate-seeks-return-of-looted-artefacts/ ; BM term BIOG125735 — https://www.britishmuseum.org/collection/term/BIOG125735
+- **Friedrich Erdmann** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/erdmann-friedrich
+- **Friedrich Langheld** (proveana_paese)
+  - PAESE database — https://www.postcolonial-provenance-research.com/en/database/
+- **Friedrich Wandres** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/wandres-friedrich
+- **Garnet Wolseley** (episodes_british)
+  - V&A Asante gold — https://www.vam.ac.uk/articles/a-history-of-asante-gold-at-the-vanda ; The Witness 2021 — https://witness.co.za/news/2021/08/07/calls-for-britain-to-return-zulu-artefacts-including-king-cetshwayos-assegai-20210807/
+- **Gaston Thierry** (episodes_german)
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **Georg August Zenker** (episodes_german)
+  - museum-digital SMB — https://smb.museum-digital.de/people/44123
+- **Georg Kempf** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/kempf-georg
+- **Georg Steindorff** (ora)
+  - ORA: The Steindorff Case — https://openrestitution.africa/case-study/selective-memory-and-the-steindorff-case-what-we-choose-to-forget/
+- **George Goldie** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/goldie-george
+- **Georges Cuvier** (ora)
+  - ORA: The Repatriation of Sara Baartman — https://openrestitution.africa/case-study/3609/
+- **Georges Richard (Réunion)** (episodes_french_belgian)  **[context_required]**
+  - Couronne de Ranavalona III — https://fr.wikipedia.org/wiki/Couronne_de_Ranavalona_III
+- **Gerald Jorns** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/jorns-gerald
+- **Gerhard Jacob** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/jacob-gerhard
+- **Gonville Bromhead** (episodes_british)
+  - NMS Baggage and Belonging: Royal Welsh, Brecon — https://files.nms.ac.uk/production/Documents/Research/Baggage-and-Belonging-Catalogues/regimental-museum-of-the-royal-welsh-brecon.pdf
+- **Gottfried Freyer** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/freyer-gottfried
+- **Günther Tessmann** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/tessmann-gunther
+- **Gustav Boeder** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/boeder-gustav
+- **Gustav Conrau** (episodes_german)
+  - Verfassungsblog — https://verfassungsblog.de/provenance-research-and-claims-to-bangwa-collections/ ; Gustav Conrau — https://en.wikipedia.org/wiki/Gustav_Conrau
+- **Gustav Umlauff** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/umlauff-gustav
+- **Han Coray** (market)
+  - Artrust — https://www.artrust.ch/han-coray-the-collector-thet-made-the-impossible-possible/?lang=en ; Museum Rietberg — https://rietberg.ch/en/collection-people/580
+- **Hans Caspar Gans Edler Herr zu Putlitz** (episodes_german)
+  - about-africa.de (Bamum collection history) — https://www.about-africa.de/kamerun-nigeria/108-tradition-innovation-geschichte-bamum-sammlung-berlin
+- **Hans Dominik** (episodes_german)
+  - Kulturgutverluste project — https://kulturgutverluste.de/projekte/die-kamerun-sammlungen-von-hans-glauning-hans-dominik-und-richard-hirtler-kollaborative ; No Humboldt 21 — https://www.no-humboldt21.de/deutschland-muss-menschliche-gebeine-und-kriegsbeute-aus-kamerun-togo-tansania-und-ruanda-zurueckgeben/
+- **Hans Glauning** (episodes_german)
+  - Kulturgutverluste project — https://kulturgutverluste.de/projekte/die-kamerun-sammlungen-von-hans-glauning-hans-dominik-und-richard-hirtler-kollaborative
+- **Hans Gruner** (episodes_german)
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **Hans Meyer (1858-1929)** (proveana_paese)  **[context_required]**
+  - Proveana person — https://www.proveana.de/en/person/meyer-hans
+- **Hans Schomburgk** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/schomburgk-hans
+- **Hans Virchow** (episodes_german)
+  - ArThemis case note — https://plone.unige.ch/art-adr/cases-affaires/20-skulls-of-colonial-victims-2013-namibia-and-charite-universitatsmedizin-berlin
+- **Harry Geoffrey Beasley** (market)
+  - Harry Geoffrey Beasley — https://en.wikipedia.org/wiki/Harry_Geoffrey_Beasley ; BM term Cranmore — https://www.britishmuseum.org/collection/term/BIOG122477
+- **Harry Grunitzky** (episodes_german)
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **Heinrich Bey** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/bey-heinrich
+- **Heinrich Göring** (proveana_paese)
+  - Proveana person index — https://www.proveana.de/en/person/goring-heinrich
+- **Heinrich Umlauff** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/umlauff-heinrich
+- **Hendrik Cezar** (ora)
+  - ORA: The Repatriation of Sara Baartman — https://openrestitution.africa/case-study/3609/
+- **Henri Gouraud** (episodes_french_belgian)
+  - Bamada.net — http://bamada.net/resistance-coloniale-le-tresor-de-samory ; Hérodote — https://www.herodote.net/29_septembre_1898-evenement-18980929.php
+- **Henri Kamer** (market)
+  - Gazette Drouot — https://www.gazette-drouot.com/en/article/helene-leloup-a-pioneering-dealer-in-primitive-art/68607
+- **Henriette Dessaint** (episodes_french_belgian)
+  - AfricaMuseum provenance: Storms — https://www.africamuseum.be/en/learn/provenance/storms
+- **Henry Christy** (ora)  **[exclude_flat]**
+  - ORA: 80 of King Moshoeshoe's Belongings — https://openrestitution.africa/case-study/80-of-king-moshoeshoes-belongings/
+- **Henry Colvile** (episodes_british)
+  - The EastAfrican — https://www.theeastafrican.co.ke/tea/magazine/the-fight-for-a-stool-bunyoro-wants-its-seat-of-power-back-3429808
+- **Henry Dugdale** (episodes_british)
+  - Watt, BJMH 2023 — https://bjmh.gold.ac.uk/index.php/bjmh/article/download/1736/1847/2133
+- **Henry Germain Mainwaring** (episodes_british)
+  - NMS Baggage and Belonging: Royal Welsh, Brecon — https://files.nms.ac.uk/production/Documents/Research/Baggage-and-Belonging-Catalogues/regimental-museum-of-the-royal-welsh-brecon.pdf
+- **Henry Lionel Gallwey** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/gallwey-henry-lionel
+- **Henry Wellcome** (episodes_french_belgian)
+  - BM term: Henri Pareyn — https://www.britishmuseum.org/collection/term/BIOG126968 ; Fowler Museum — https://fowler.ucla.edu/exhibitions/on-display-in-walled-city/
+- **Henry Wood (10th Hussars, 1874)** (episodes_british)  **[context_required]**
+  - Watt, BJMH 2023 — https://bjmh.gold.ac.uk/index.php/bjmh/article/download/1736/1847/2133
+- **Herbert Kitchener** (episodes_british)
+  - The Mahdi's tomb — https://en.wikipedia.org/wiki/The_Mahdi%27s_tomb ; NAM Black Flag — https://collection.nam.ac.uk/detail.php?acc=1982-10-118-1
+- **Herbert Ward** (episodes_french_belgian)  **[context_required]**
+  - Smithsonian NMNH — https://naturalhistory.si.edu/research/anthropology/news-and-highlights/herbert-ward
+- **Hermann Cleve** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/cleve-hermann
+- **Hermann Nolte** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/nolte-hermann
+- **Hermann von Wissmann** (episodes_german)
+  - museum-digital SMB — https://smb.museum-digital.de/index.php?t=objekt&oges=22025
+- **Hugo Bofinger** (episodes_german)
+  - Shark Island concentration camp — https://en.wikipedia.org/wiki/Shark_Island_concentration_camp
+- **Hugo von François** (episodes_german)
+  - Proveana event: Überfall auf Hornkranz — https://www.proveana.de/en/event/uberfall-auf-hornkranz-vom-12-april-1893
+- **Ian Douglas Smith** (ora)  **[context_required]**
+  - ORA: Rhodesia Cabinet Files — https://openrestitution.africa/case-study/rhodesia-cabinet-files/
+- **Jacobus Reimers** (proveana_paese)
+  - PAESE subprojects — https://www.postcolonial-provenance-research.com/en/
+- **Jacques Duchesne** (episodes_french_belgian)
+  - Second Madagascar expedition — https://en.wikipedia.org/wiki/Second_Madagascar_expedition ; Couronne de Ranavalona III — https://fr.wikipedia.org/wiki/Couronne_de_Ranavalona_III
+- **Jakob Keller** (episodes_german)
+  - Mission 21 — https://www.mission-21.org/en/from-the-archive-who-owns-these-objects/
+- **James Robert Phillips** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/phillips-james-robert
+- **James Theodore Bent** (episodes_british)
+  - Zimbabwe Bird — https://en.wikipedia.org/wiki/Zimbabwe_Bird
+- **James Thomas Hooper** (market)
+  - James Thomas Hooper — https://en.wikipedia.org/wiki/James_Thomas_Hooper ; Christie's 1976 catalogue — https://books.google.com/books/about/African_Art_from_the_Late_James_T_Hooper.html?id=LnuIzQEACAAJ
+- **Jan Czekanowski** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/czekanowski-jan
+- **Jasper von Oertzen** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/oertzen-jasper-von
+- **Jean-Pierre Daugas** (ora)
+  - ORA: Bones of Returned Memory — https://openrestitution.africa/case-study/bones-of-returned-memory-the-repatriation-of-neolithic-skeletons-from-bordeaux-to-rabat/
+- **Jesko von Puttkamer** (episodes_german)
+  - Proveana person — https://www.proveana.de/en/person/puttkamer-jesko-von ; IJCP 2026 — https://www.tandfonline.com/doi/full/10.1080/10286632.2026.2645040
+- **Johan Cesar Godeffroy** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/godeffroy-johan-cesar
+- **Johann Friedrich Gustav Umlauff** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/umlauff-johann-friedrich-gustav
+- **Johannes Langheld** (proveana_paese)
+  - PAESE database — https://www.postcolonial-provenance-research.com/en/database/
+- **Johannes Umlauff** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/umlauff-johannes
+- **Johannes Weißenborn** (episodes_german)
+  - Hege, 'Trophy Colonialism' (De Gruyter) — https://www.degruyterbrill.com/document/doi/10.1515/9783111335568-005/html
+- **John David Arthur Thomas Lloyd** (episodes_british)
+  - NMS Baggage and Belonging: Royal Welsh, Brecon — https://files.nms.ac.uk/production/Documents/Research/Baggage-and-Belonging-Catalogues/regimental-museum-of-the-royal-welsh-brecon.pdf
+- **John J. Klejman** (market)
+  - Open Art Data — https://www.openartdata.org/2019/09/colonial-art-dealer-klejman.html ; Smithsonian Magazine — https://www.smithsonianmag.com/history/chasing-the-lydian-hoard-93685665/
+- **John Paul Frisch** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/frisch-john-paul
+- **John Roscoe** (episodes_british)
+  - Museums Association 2024 — https://www.museumsassociation.org/museums-journal/news/2024/06/uganda-welcomes-return-of-39-artefacts-from-museum-of-archaeology-and-anthropology/
+- **Josef Müller (Solothurn)** (market)  **[context_required]**
+  - Josef Müller (art collector) — https://en.wikipedia.org/wiki/Josef_M%C3%BCller_(art_collector) ; Barbier-Mueller history — https://www.barbier-mueller.ch/en/historique-eng/
+- **Joseph Gallieni** (episodes_french_belgian)
+  - Ranavalona III — https://en.wikipedia.org/wiki/Ranavalona_III
+- **Jules Verreaux** (ora)
+  - ORA: Masalela — https://openrestitution.africa/case-study/masalela-a-monna-wa-mosarwa-a-boetse-gae-the-remains-of-the-mosarwa-man-have-returned-home/
+- **Julius Konietzko** (proveana_paese)
+  - Provenienzforschung Niedersachsen dealer page — https://www.provenienzforschung-niedersachsen.de/handel/julius-konietzko-hamburg/
+- **Justus Weiler** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/weiler-justus
+- **Karl Adametz** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/adametz-karl
+- **Karl Hermann Jacob-Friesen** (proveana_paese)
+  - PAESE subprojects — https://www.postcolonial-provenance-research.com/en/
+- **Karl von Gravenreuth** (proveana_paese)
+  - Proveana person/event — https://www.proveana.de/en/event/erste-strafexpedition-nach-buea
+- **Karl Weule** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/weule-karl
+- **Karl Wilhelm Hartmann** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/hartmann-karl-wilhelm
+- **Kenneth John Hewett** (market)
+  - Digital Benin actor 734 — https://digitalbenin.org/provenance/734 ; Lempertz Hewett collection — https://www.lempertz.com/en/press/art-of-africa-the-pacific-and-the-americas-highly-important-collection-of-seymour-and-alyce-lazar-and-the-collection-of-john-hewett.html
+- **Kurd Schwabe** (episodes_german)
+  - Proveana event: Überfall auf Hornkranz — https://www.proveana.de/en/event/uberfall-auf-hornkranz-vom-12-april-1893
+- **Kurt Johannes** (proveana_paese)
+  - PAESE subproject 'Trade Routes and Networks' — https://www.postcolonial-provenance-research.com/en/paese/teilprojekte/trade-routes-and-networks/
+- **Kurt Streitwolf** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/streitwolf-kurt
+- **Kurt Strümpell** (proveana_paese)
+  - PAESE subproject '(Post)colonial acquisition histories' — https://www.postcolonial-provenance-research.com/en/paese/teilprojekte/translate-to-english-postkoloniale-erwerbsgeschichten-und-objektbedeutungen/
+- **Lady Valerie Meux** (episodes_british)
+  - Pankhurst/AFROMET — http://www.afromet.info/history/
+- **Leo Frobenius** (episodes_british)
+  - National Geographic — https://www.nationalgeographic.com/history/history-magazine/article/nigerian-treasures-ife-heads-bronze ; DIAFE — https://en.wikipedia.org/wiki/German_Inner_Africa_Research_Expeditions
+- **Léon Rom** (episodes_french_belgian)
+  - AfricaMuseum provenance: Pende whistle — https://www.africamuseum.be/en/learn/provenance/pende-whistle
+- **Leonhard Schultze-Jena** (episodes_german)
+  - Leonhard Schultze-Jena — https://en.wikipedia.org/wiki/Leonhard_Schultze-Jena
+- **Leopold Conradt** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/conradt-leopold
+- **Lieutenant Maclean (Naval Brigade, Kumasi 1874)** (episodes_british)  **[context_required]**
+  - Watt, BJMH 2023 — https://bjmh.gold.ac.uk/index.php/bjmh/article/download/1736/1847/2133
+- **Lore Kegel** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/kegel-lore
+- **Lothar von Trotha** (episodes_german)
+  - Journal of Genocide Research 2025 — https://www.tandfonline.com/doi/full/10.1080/14623528.2025.2545654
+- **Louis Archinard** (episodes_french_belgian)
+  - ArThemis: Sabre de El Hadj Omar Tall — https://plone.unige.ch/art-adr/cases-affaires/sabre-de-el-hadj-omar-tall-2013-france-et-senegal ; Bibliothèque oumarienne — https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_oumarienne_de_S%C3%A9gou
+- **Ludwig Bretschneider** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/bretschneider-ludwig
+- **Ludwig Wolf** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/wolf-ludwig
+- **Marcel Griaule** (episodes_french_belgian)
+  - Quai Branly Dakar-Djibouti provenance page — https://m.quaibranly.fr/en/collections/living-collections/provenances-of-the-collections/mission-dakar-djibouti-1931-1933
+- **Marie-Joseph Bonnat** (episodes_british)
+  - Watt, BJMH 2023 — https://bjmh.gold.ac.uk/index.php/bjmh/article/download/1736/1847/2133
+- **Mathias Komor** (market)
+  - Getty Research Collections — https://www.getty.edu/research/collections/collection/113YFC
+- **Max Buchner** (ora)
+  - ORA: The Tangué — https://openrestitution.africa/case-study/the-tangue-belonging-of-the-bele-bele-family-of-douala-kingdom/ ; Der Raub des Tangué — https://mapping.postkolonial.net/article/der-raub-des-tangue
+- **Max Esser** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/esser-max
+- **Max von Stetten** (episodes_german)
+  - Kulturgutverluste: Blue Rider Post project — https://kulturgutverluste.de/en/projects/blue-rider-post-and-max-von-stetten-collection-1893-1896-cameroon-museum-funf-kontinente
+- **Melton Prior** (episodes_british)
+  - Watt, BJMH 2023 — https://bjmh.gold.ac.uk/index.php/bjmh/article/download/1736/1847/2133
+- **Merton Daniel Simpson** (market)
+  - Digital Benin actor 701 — https://digitalbenin.org/provenance/701 ; Merton Simpson — https://en.wikipedia.org/wiki/Merton_Simpson
+- **Michel Leiris** (episodes_french_belgian)
+  - Quai Branly Dakar-Djibouti provenance page; Cultural Property News Sarr-Savoy summary — https://culturalpropertynews.org/the-savoy-sarr-report-for-president-macron-a-summary/
+- **Moritz Merker** (proveana_paese)
+  - PAESE subproject 'Trade Routes and Networks' — https://www.postcolonial-provenance-research.com/en/paese/teilprojekte/trade-routes-and-networks/
+- **Neville Chittick** (ora)
+  - ORA: Human Ancestors Return to Kilwa — https://openrestitution.africa/case-study/human/
+- **Oltwig von Kamptz** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/kamptz-oltwig-von
+- **Oscar Michaux** (episodes_french_belgian)
+  - AfricaMuseum provenance overview — https://www.africamuseum.be/en/discover/provenance
+- **Oskar Meyer (Benin trader, 1873-1914)** (proveana_paese)  **[context_required]**
+  - Proveana person — https://www.proveana.de/en/person/meyer-oskar
+- **Otto Kümmel** (ora)
+  - ORA: Benin Royal Stools — https://openrestitution.africa/case-study/the-restitution-efforts-of-oba-akenzua-ii-and-the-significance-of-the-benin-royal-stools/
+- **Otto Semmelroth** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/semmelroth-otto
+- **P. Wassmansdorf** (ora)
+  - ORA: Hendrik Witbooi Bible and Whip — https://openrestitution.africa/case-study/hendrik-witbooi-gabemab-nanseb-bible-and-whip-repatriation-case/
+- **Paul Bartels** (episodes_german)
+  - ArThemis case note (Univ. of Geneva) — https://plone.unige.ch/art-adr/cases-affaires/20-skulls-of-colonial-victims-2013-namibia-and-charite-universitatsmedizin-berlin
+- **Paul Guillaume** (market)
+  - Met Modern Art Index: Guillaume — https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/guillaume
+- **Peter Scheunemann** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/scheunemann-peter
+- **Pierre Harter** (ora)
+  - ORA: Bamendou Tukah Mask — https://openrestitution.africa/case-study/bamendou-tukah-mask/
+- **Pieter Cezars** (ora)
+  - ORA: The Repatriation of Sara Baartman — https://openrestitution.africa/case-study/3609/
+- **Ralph Zürn** (episodes_german)
+  - Stoecker/Winkelmann, Human Remains and Violence 4:2 (2018) — https://www.researchgate.net/publication/328659687
+- **Redvers Buller** (episodes_british)
+  - Watt, 'Ashantee Loot is Unique' (BJMH 9.3, 2023) — https://bjmh.gold.ac.uk/index.php/bjmh/article/download/1736/1847/2133
+- **Reginald Kerr Granville** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/granville-reginald-kerr
+- **Richard Hirtler** (episodes_german)
+  - Kulturgutverluste project — https://kulturgutverluste.de/projekte/die-kamerun-sammlungen-von-hans-glauning-hans-dominik-und-richard-hirtler-kollaborative
+- **Richard Kandt** (proveana_paese)
+  - PAESE subproject 'Trade Routes and Networks' — https://www.postcolonial-provenance-research.com/en/paese/teilprojekte/trade-routes-and-networks/
+- **Richard Meinertzhagen** (episodes_british)
+  - Al Jazeera — https://www.aljazeera.com/features/2021/10/12/stealing-africa-how-britain-looted-the-continents-art
+- **Richard Nicklin Hall** (episodes_british)
+  - AP via Graphic — https://www.graphic.com.gh/international/international-news/zimbabwes-iconic-stone-birds-were-taken-by-colonialists-finally-theyre-all-back-home.html
+- **Richard Rivington Holmes** (episodes_british)
+  - BM Maqdala collection — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/maqdala-collection
+- **Robert Baden-Powell** (episodes_british)
+  - Modern Ghana — https://www.modernghana.com/news/310930/50/when-will-britain-return-looted-gold.html ; BM Asante Gold Regalia — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/asante-gold-regalia
+- **Robert Napier** (episodes_british)
+  - BM Maqdala collection; Pankhurst/AFROMET — http://www.afromet.info/history/
+- **Robert Visser** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/visser-robert
+- **Ross Macartney** (ora)
+  - ORA: Kabwe Man — https://openrestitution.africa/case-study/kabwe-man/
+- **Rudolf Virchow** (episodes_german)
+  - Human Remains and Violence 4:2 (2018); 'We Want Them Back' report — https://www.bcp.fu-berlin.de/biologie/ethik-tool-box/menschliche-Gebeine---zeilenbasiert/Provenienz-101/Links-und-Downloads/We-Want-Them-Back_english-web.pdf
+- **Sergeant Major W. Hogan (24th Regiment)** (episodes_british)  **[context_required]**
+  - NMS Baggage and Belonging: Royal Welsh, Brecon — https://files.nms.ac.uk/production/Documents/Research/Baggage-and-Belonging-Catalogues/regimental-museum-of-the-royal-welsh-brecon.pdf
+- **Serjeant Pearce (Asante 1874)** (episodes_british)  **[context_required]**
+  - V&A Asante gold — https://www.vam.ac.uk/articles/a-history-of-asante-gold-at-the-vanda
+- **Stafford Northcote** (episodes_british)
+  - BM Maqdala collection — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/maqdala-collection
+- **Sydney Burney** (market)
+  - Sydney Burney — https://en.wikipedia.org/wiki/Sydney_Burney ; BM term — https://www.britishmuseum.org/collection/term/BIOG62018
+- **Theodor Seitz** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/seitz-theodor
+- **Theodor von Christ** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/christ-theodor-von
+- **Tom von Prince** (episodes_german)
+  - Chief Mkwawa — https://en.wikipedia.org/wiki/Chief_Mkwawa
+- **Tom Zwiglaar** (ora)
+  - ORA: Kabwe Man — https://openrestitution.africa/case-study/kabwe-man/
+- **Tristram Speedy** (episodes_british)
+  - BM Maqdala collection — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/maqdala-collection
+- **Valentin von Massow** (episodes_german)
+  - Proveana/Kulturgutverluste Togo project — https://www.proveana.de/en/project/provenance-colonial-era-collections-togo-museum-fur-volkerkunde-dresden-and-grassi-museum
+- **W. G. Neal** (episodes_british)
+  - African History Extra — https://www.africanhistoryextra.com/p/stone-palaces-in-the-mountains-great ; Neal & Hall (Gutenberg) — https://www.gutenberg.org/files/62501/62501-h/62501-h.htm
+- **Waldemar Belck** (episodes_german)
+  - Human Remains and Violence 4:2 (2018) — https://www.manchesterhive.com/view/journals/hrv/4/2/article-p45.xml
+- **Werner von Rotberg** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/rotberg-werner-von
+- **Wilhelm Drews** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/drews-wilhelm
+- **Wilhelm Langheld** (proveana_paese)
+  - PAESE database/subprojects — https://www.postcolonial-provenance-research.com/en/database/
+- **Wilhelm Lederbogen** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/lederbogen-wilhelm
+- **Wilhelm Thiel** (proveana_paese)
+  - Proveana person — https://www.proveana.de/en/person/thiel-wilhelm
+- **Wilko von Frese** (proveana_paese)
+  - PAESE subproject 'Conditions of acquisitions in colonial Cameroon' — https://www.postcolonial-provenance-research.com/en/paese/teilprojekte/conditions-of-acquisitions-in-colonial-cameroon/
+- **Willi Posselt** (episodes_british)
+  - Zimbabwe Bird — https://en.wikipedia.org/wiki/Zimbabwe_Bird
+- **William D. Cutter** (market)
+  - Pitt Rivers 'Rethinking Pitt-Rivers': Dealers and Auctioneers — https://web.prm.ox.ac.uk/rpr/index.php/article-index/12-articles/139-dealers-and-auctioneers.html
+- **William Downing Webster** (market)
+  - W. D. Webster — https://en.wikipedia.org/wiki/W._D._Webster ; Benin Initiative Switzerland report — https://rietberg.ch/files/Forschung/Benin-Initiative/Bios-Statements-Photos_Nigeria-Delegation_Feb2023/20230202_BIS_report_def.pdf
+- **William Dunbar (Major, 24th Regiment)** (episodes_british)  **[context_required]**
+  - NMS Baggage and Belonging: Royal Welsh, Brecon — https://files.nms.ac.uk/production/Documents/Research/Baggage-and-Belonging-Catalogues/regimental-museum-of-the-royal-welsh-brecon.pdf
+- **William Hesketh Lever (Viscount Leverhulme)** (market)
+  - Based in Churton (Lady Lever) — https://basedinchurton.co.uk/2025/03/07/lord-leverhulmes-sparkling-collections-at-the-lady-lever-art-gallery-in-port-sunlight-wirral/ ; Sotheby's Leverhulme catalogues — https://www.sothebys.com/en/auctions/ecatalogue/2001/the-leverhulme-collection-at-thornton-manor-wirral-merseyside-l01703/lot.1017.html
+- **William Ockelford Oldman** (ora)
+  - ORA: Benin Royal Stools — https://openrestitution.africa/case-study/the-restitution-efforts-of-oba-akenzua-ii-and-the-significance-of-the-benin-royal-stools/ ; Wikipedia/Digital Benin — https://en.wikipedia.org/wiki/William_Ockleford_Oldman
+- **William Ohly** (market)
+  - William Ohly — https://en.wikipedia.org/wiki/William_Ohly ; BM term Berkeley Galleries — https://www.britishmuseum.org/collection/term/BIOG61973
+- **William Simpson (war artist)** (episodes_british)  **[context_required]**
+  - V&A Ethiopian collections — https://www.vam.ac.uk/articles/ethiopian-collections-at-the-vampa
+
+## Channels
+
+- **Alexander Ecker Collection (Freiburg)** (episodes_german)
+  - University of Freiburg 2014 — https://kommunikation.uni-freiburg.de/pm-en/2014/pm.2014-03-04.18-en
+- **Ancient Ruins Company (Rhodesia Ancient Ruins Ltd)** (episodes_british)
+  - African History Extra; Botswana Gazette — https://www.thegazette.news/features/returning-looted-artefacts-will-finally-restore-heritage-to-the-brilliant-cultures-that-made-them/
+- **Army prize system (prize committees, agents, auctions)** (episodes_british)
+  - BM Maqdala collection; Watt, BJMH 2023
+- **Arthur Speyer (dealer dynasty, Berlin)** (episodes_german)
+  - Digital Benin — https://digitalbenin.org/provenance/804 ; Freiburg online collection — https://onlinesammlung.freiburg.de/en/person/Speyer
+- **Association internationale africaine / Congo Free State collections** (episodes_french_belgian)
+  - AfricaMuseum provenance: Nkisi Nkonde — https://www.africamuseum.be/en/learn/provenance/nkisi-nkonde
+- **Basler Mission** (proveana_paese, episodes_german)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/basler-mission
+  - Mission 21 — https://www.mission-21.org/en/from-the-archive-who-owns-these-objects/
+- **BGAEU Rudolf Virchow Collection** (episodes_german)
+  - 'We Want Them Back' report — https://www.bcp.fu-berlin.de/biologie/ethik-tool-box/menschliche-Gebeine---zeilenbasiert/Provenienz-101/Links-und-Downloads/We-Want-Them-Back_english-web.pdf
+- **BnF Fonds Archinard (Bibliothèque umarienne de Ségou)** (episodes_french_belgian)
+  - Bibliothèque oumarienne de Ségou — https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_oumarienne_de_S%C3%A9gou
+- **British Empire Exhibition, Wembley (1924-25)** (market)
+  - Fowler Museum — https://fowler.ucla.edu/exhibitions/on-display-in-walled-city/ ; BM term — https://www.britishmuseum.org/collection/term/BIOG121573
+- **British Institute in Eastern Africa** (ora)
+  - ORA: Human Ancestors Return to Kilwa — https://openrestitution.africa/case-study/human/
+- **British South Africa Company** (episodes_british)
+  - Zimbabwe Bird — https://en.wikipedia.org/wiki/Zimbabwe_Bird
+- **C. Goedelt (firm)** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/c-goedelt
+- **C. Woermann / Woermann-Linie (Hamburg)** (proveana_paese)
+  - Proveana corporate bodies — https://www.proveana.de/en/korperschaft/c-woermann-gmbh-und-co ; https://www.proveana.de/en/corporate-body/woermann-linie-ag
+- **California State University Fullerton Museum** (ora)
+  - ORA: Offer to Return 27 Vigango — https://openrestitution.africa/case-study/offer-to-return-27-vigango/
+- **Carl Hagenbeck (firm)** (episodes_german)
+  - Proveana — https://www.proveana.de/en/person/hagenbeck-carl ; PAESE Reiche & Ruhe project
+- **Charité anatomical collections (Berlin)** (episodes_german)
+  - ArThemis case note; Charité press — https://www.charite.de/en/service/press_reports/artikel/detail/universitaetsmedizin_berlin_honors_the_victims
+- **Christie's (historical African sales)** (market)  **[exclude_flat]**
+  - Christie's 1976 Hooper catalogue; Auction Daily — https://auctiondaily.com/news/benin-bronzes-and-the-auction-world-past-present-and-future/
+- **Ciara Corporation (Ciaramella family)** (ora)
+  - ORA: Offer to Return 27 Vigango — https://openrestitution.africa/case-study/offer-to-return-27-vigango/
+- **Colonial expositions (Antwerp 1885; Brussels/Tervuren 1897)** (episodes_french_belgian)
+  - AfricaMuseum provenance: Nkisi Nkonde; Origin of the collections
+- **Compagnie du Kasaï** (episodes_french_belgian)
+  - RMCA Studies vol. 182 '(RE)MAKING COLLECTIONS' — https://www.africamuseum.be/sites/default/files/media/docs/publications/ENG_Remaking_collections_avec%20cover%20online%20def.pdf
+- **Cory Library, Rhodes University** (ora)
+  - ORA: Rhodesia Cabinet Files — https://openrestitution.africa/case-study/rhodesia-cabinet-files/
+- **Cranmore Ethnographical Museum dispersal (post-1939)** (market)
+  - BM term Cranmore — https://www.britishmuseum.org/collection/term/BIOG122477
+- **Crown Agents for the Colonies** (episodes_british)
+  - BM Asante Gold Regalia — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/asante-gold-regalia
+- **Darder Museum, Banyoles** (ora)
+  - ORA: Masalela — https://openrestitution.africa/case-study/masalela-a-monna-wa-mosarwa-a-boetse-gae-the-remains-of-the-mosarwa-man-have-returned-home/
+- **David Lippert & Co** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/david-lippert-co
+- **Denver Museum of Nature and Science** (ora)
+  - ORA: Offer to Return 30 Vigango — https://openrestitution.africa/case-study/offertoreturn30vigango/
+- **Deutsch-Ostafrikanische Gesellschaft** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/korperschaft/deutsch-ostafrikanische-gesellschaft
+- **Egyptian Museum Georg Steindorff, Leipzig** (ora)
+  - ORA: The Steindorff Case — https://openrestitution.africa/case-study/selective-memory-and-the-steindorff-case-what-we-choose-to-forget/
+- **Elder Dempster shipping network (to Liverpool Museum)** (market)
+  - Tythacott — https://eprints.soas.ac.uk/18676/ ; NML — https://www.liverpoolmuseums.org.uk/stories/reconnecting-ancestors-world-museum
+- **Ethnological Museum of Berlin** (ora)
+  - ORA: Benin Royal Stools; Return of 23 belongings to Namibia — https://openrestitution.africa/case-study/return-of-23-cultural-belongings-to-namibia/
+- **Force Publique / Congo Free State military campaigns** (episodes_french_belgian)
+  - AfricaMuseum: Origin of the collections — https://www.africamuseum.be/en/discover/origin_collections
+- **Forschungsstation Nkolentangan** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/forschungsstation-nkolentangan
+- **Forschungsstation Uelleburg** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/forschungsstation-uelleburg
+- **Foster's (auctioneers, Pall Mall)** (market)
+  - Pitt Rivers 'Rethinking Pitt-Rivers': Dealers and Auctioneers — https://web.prm.ox.ac.uk/rpr/index.php/article-index/12-articles/139-dealers-and-auctioneers.html
+- **G.L. Gaiser (Hamburg/Lagos)** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/gl-gaiser
+- **Geographische Gesellschaft in Hamburg** (ora)
+  - ORA: Isanzu Community Perspectives — https://openrestitution.africa/case-study/isanzu-community-perspectives-on-ancestral-human-remains-restitution-to-tanzania/
+- **Gold Coast colonial government transfers** (episodes_british)
+  - BM Asante Gold Regalia — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/asante-gold-regalia
+- **Hampton University Museum** (ora)
+  - ORA: The Return of Katana's Vigango — https://openrestitution.africa/case-study/the-return-of-katanas-vigango/
+- **Hansing & Co** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/hansing-co
+- **Henri Pareyn (Antwerp dealership; 1928 estate auction)** (episodes_french_belgian)
+  - BM term: Henri Pareyn — https://www.britishmuseum.org/collection/term/BIOG126968 ; ArcGIS StoryMap — https://storymaps.arcgis.com/stories/f18048fa10294450beda283ae701fd70
+- **Hernsheim & Co** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/korperschaft/hernsheim-co
+- **Humboldt Forum / Prussian Cultural Heritage Foundation** (ora)
+  - ORA: Ngonnso — https://openrestitution.africa/case-study/the-restitution-journey-of-ngonnso-from-the-nso-kingdom-in-cameroon/
+- **Illinois State University Museum** (ora)
+  - ORA: The Return of Katana's Vigango — https://openrestitution.africa/case-study/the-return-of-katanas-vigango/
+- **India Office / Secretary of State for India transfers (1868)** (episodes_british)
+  - BM Maqdala collection — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/maqdala-collection
+- **J.C. Stevens Auction Rooms** (ora)
+  - ORA: Benin Royal Stools; Stevens' auction rooms — https://en.wikipedia.org/wiki/Stevens'_auction_rooms
+- **J.F.G. Umlauff (Hamburg)** (episodes_german)
+  - Proveana — https://www.proveana.de/en/corporate-body/jfg-umlauff ; RIO Journal — https://riojournal.com/article/181653/
+- **Jeanne Walschot (Brussels)** (episodes_french_belgian)
+  - AfricaMuseum provenance overview — https://www.africamuseum.be/en/discover/provenance
+- **Johannes Umlauff. Naturalien und Lehrmittel** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/korperschaft/johannes-umlauff-naturalien-und-lehrmittel
+- **Julius Konietzko (firm, Hamburg)** (episodes_german)
+  - Provenienzforschung Niedersachsen — https://www.provenienzforschung-niedersachsen.de/handel/julius-konietzko-hamburg/
+- **L. R. Callerholm** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/l-r-callerholm
+- **Leverhulme executors' sales (1926)** (market)
+  - Anderson Galleries catalogue (Internet Archive) — https://archive.org/details/gri_33125016632586
+- **Linden-Museum Stuttgart** (ora)
+  - ORA: Hendrik Witbooi Bible and Whip — https://openrestitution.africa/case-study/hendrik-witbooi-gabemab-nanseb-bible-and-whip-repatriation-case/
+- **London Missionary Society museum dispersal (1910)** (market)
+  - Journal of the History of Collections 29:1 — https://academic.oup.com/jhc/article/29/1/109/2503285
+- **Luschan private collection (sold to AMNH, 1924)** (episodes_german)
+  - Hyperallergic — https://hyperallergic.com/a-new-york-museums-house-of-bones/
+- **Luschan S-Sammlung (Berlin, now SPK)** (episodes_german)
+  - SPK press release 22.04.2026 — https://www.preussischer-kulturbesitz.de/pressemitteilung/artikel/2026/04/22/
+- **Mission Dakar-Djibouti (1931-1933)** (episodes_french_belgian)
+  - Quai Branly Dakar-Djibouti provenance page — https://m.quaibranly.fr/en/collections/living-collections/provenances-of-the-collections/mission-dakar-djibouti-1931-1933
+- **Missionsstation Urambo** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/missionsstation
+- **Mon Steyaert Gallery, Brussels** (ora)
+  - ORA: Restitution of the Nalindele Mask — https://openrestitution.africa/case-study/the-restitution-of-the-nalindele-mask/
+- **Musée d'ethnographie du Trocadéro / Musée de l'Homme (pre-1960 African holdings)** (episodes_french_belgian)
+  - Quai Branly Dakar-Djibouti provenance page — https://m.quaibranly.fr/en/collections/living-collections/provenances-of-the-collections/mission-dakar-djibouti-1931-1933
+- **Musée de l'Armée (Invalides) colonial trophies** (episodes_french_belgian)
+  - ArThemis: Sabre de El Hadj Omar Tall; Couronne de Ranavalona III
+- **Musée de l'Homme, Paris** (ora)
+  - ORA: The Repatriation of Sara Baartman — https://openrestitution.africa/case-study/3609/
+- **Musée de la Porte Dorée** (ora)
+  - ORA: Bamendou Tukah Mask — https://openrestitution.africa/case-study/bamendou-tukah-mask/
+- **Musée du quai Branly – Jacques Chirac** (ora)
+  - ORA: Bamendou Tukah Mask — https://openrestitution.africa/case-study/bamendou-tukah-mask/
+- **Museum Fünf Kontinente, Munich** (ora)
+  - ORA: The Tangué — https://openrestitution.africa/case-study/the-tangue-belonging-of-the-bele-bele-family-of-douala-kingdom/
+- **Museum für Völkerkunde Hamburg** (ora)
+  - ORA: Isanzu Community Perspectives — https://openrestitution.africa/case-study/isanzu-community-perspectives-on-ancestral-human-remains-restitution-to-tanzania/
+- **Muséum national d'Histoire naturelle, Paris** (ora)
+  - ORA: The Repatriation of Sara Baartman — https://openrestitution.africa/case-study/3609/
+- **Nationaal Museum van Wereldculturen (Wereldmuseum)** (ora)
+  - ORA: Restoring Royal Legacy — https://openrestitution.africa/case-study/restoring-royal-legacy-the-return-of-119-benin-bronzes-from-the-netherlands-to-benin-city/
+- **National Army Museum (campaign-trophy holdings)** (episodes_british)  **[exclude_flat]**
+  - AFROMET; Watt BJMH 2023; NAM — https://collection.nam.ac.uk/detail.php?acc=1982-10-118-1
+- **Norddeutsche Missionsgesellschaft (Bremen Mission)** (episodes_german)
+  - Übersee-Museum Bremen — https://www.uebersee-museum.de/veranstaltung/items-out-of-place/
+- **Phillips Brothers (goldsmiths)** (episodes_british)
+  - BM Asante Gold Regalia — https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/asante-gold-regalia
+- **Pitt-Rivers second collection (Farnham Museum) dispersal** (market)
+  - Rethinking Pitt-Rivers: The Farnham Collection — https://rpr.prm.ox.ac.uk/index.php/objectbiographies/29-uncategorised/2-the-farnham-collection.html
+- **R & S Garrard & Co** (episodes_british)
+  - V&A Asante gold — https://www.vam.ac.uk/articles/a-history-of-asante-gold-at-the-vanda ; BM Asante Gold Regalia
+- **Regimental messes and regimental museums** (episodes_british)  **[exclude_flat]**
+  - AFROMET; Museum of the Highlands; NMS Baggage and Belonging
+- **Reiche & Ruhe (Alfeld animal-trading firms)** (episodes_german)
+  - PAESE Alfeld project — https://www.postcolonial-provenance-research.com/en/ap-alfeld-the-global-networks-of-the-animal-trading-companies-reiche-and-ruhe-provenance-research-on-the-circulation-of-animals-humans-and-objects-in-the-19th-and-20th-centuries/
+- **Rhodesia Broken Hill Development Company** (ora)
+  - ORA: Kabwe Man — https://openrestitution.africa/case-study/kabwe-man/
+- **Royal gift/trophy channel (Queen Victoria presentations)** (episodes_british)  **[exclude_flat]**
+  - AFROMET; NAM Black Flag; The Witness 2021
+- **Royal Museum for Central Africa (Tervuren)** (ora, episodes_french_belgian)
+  - ORA: Echoes of Return — https://openrestitution.africa/case-study/echoes-of-return-the-restitution-of-rwandas-colonial-era-audio-archives-1950s-early-2000s/
+  - AfricaMuseum: Origin of the collections; Provenance of the collections
+- **Royal Niger Company** (proveana_paese, episodes_british)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/royal-niger-company
+  - Al Jazeera — https://www.aljazeera.com/features/2021/10/12/stealing-africa-how-britain-looted-the-continents-art
+- **Scheut Missionaries (CICM) missionary museum** (episodes_french_belgian)
+  - AfricaMuseum: Origin of the collections — https://www.africamuseum.be/en/discover/origin_collections
+- **Schutztruppe (German colonial forces)** (episodes_german)  **[exclude_flat]**
+  - SMB em||power||relations booklet — https://www.smb.museum/fileadmin/website/Orte/Humboldtforum/Provenienzforschung/power_relations_provenance_research_at_the_Humboldt_Forum.pdf
+- **Service des Antiquités (Egypt, French-administered)** (ora)
+  - ORA: The Steindorff Case — https://openrestitution.africa/case-study/selective-memory-and-the-steindorff-case-what-we-choose-to-forget/
+- **Sotheby's (historical African sales)** (ora)  **[exclude_flat]**
+  - ORA: Benin Royal Stools — https://openrestitution.africa/case-study/the-restitution-efforts-of-oba-akenzua-ii-and-the-significance-of-the-benin-royal-stools/
+- **Station Buea** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/station-buea
+- **Station Ossidinge** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/station-ossidinge
+- **Sudan Archive, Durham University (Wingate deposit)** (episodes_british)
+  - Durham Sudan Archive — https://reed.dur.ac.uk/xtf/view?docId=ark%2F32150_s1f4752g79m.xml
+- **University of Bordeaux (PACEA laboratory)** (ora)
+  - ORA: Bones of Returned Memory — https://openrestitution.africa/case-study/bones-of-returned-memory-the-repatriation-of-neolithic-skeletons-from-bordeaux-to-rabat/
+- **University of Göttingen — Biological Anthropology Collection** (ora)
+  - ORA: Isanzu Community Perspectives — https://openrestitution.africa/case-study/isanzu-community-perspectives-on-ancestral-human-remains-restitution-to-tanzania/
+- **Världskulturmuseerna (National Museums of World Culture, Sweden)** (ora)
+  - ORA: Lechwe Skin Cloaks — https://openrestitution.africa/case-study/redressing-and-addressing-the-lechwe-skin-cloaks-of-the-batwa-people-1912-2025/
+- **Wellcome Historical Medical Museum dispersal (1936-1985)** (market)
+  - JSTOR — https://www.jstor.org/stable/40838969 ; African Arts (MIT Press) — https://direct.mit.edu/afar/article/58/1/7/127901/Wellcome-Dispersal-at-the-National-Museum-of-Ghana
+- **Wm. O'Swald & Co** (proveana_paese)
+  - Proveana corporate body — https://www.proveana.de/en/corporate-body/wm-oswald-co

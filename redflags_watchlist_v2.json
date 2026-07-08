@@ -1,0 +1,51 @@
+{
+  "_comment": "v2 conditional watchlist for BM colonial-acquisition flagging. Unlike the legacy redflag_rules.json (bare keyword OR), episodes require PLACE alias AND acquisition-year window, depiction/modern/UK-domestic objects are actively mitigated, and 'military donor' requires a real rank token (not the honorific 'Sir'). EXPAND the lists below to grow coverage. All matching is word-boundary, case-insensitive.",
+
+  "episodes": [
+    {"id": "benin_1897",         "place": ["benin"],                                                           "years": [1897, 1910], "region": "Benin City, Nigeria"},
+    {"id": "maqdala_1868",       "place": ["maqdala", "magdala"],                                              "years": [1867, 1872], "region": "Ethiopia (Abyssinia)"},
+    {"id": "asante_wars",        "place": ["asante", "ashanti", "kumasi", "kumase", "coomassie", "manhyia", "bantama"], "years": [1873, 1901], "region": "Asante / Gold Coast"},
+    {"id": "dahomey_1892",       "place": ["dahomey", "abomey", "behanzin", "danxome"],                        "years": [1892, 1896], "region": "Dahomey"},
+    {"id": "omdurman_1898",      "place": ["omdurman", "khartoum", "mahdi", "mahdist"],                        "years": [1897, 1901], "region": "Sudan"},
+    {"id": "summer_palace_1860", "place": ["yuanmingyuan", "summer palace", "yuan ming yuan"],                "years": [1860, 1864], "region": "Beijing, China"},
+    {"id": "tibet_1904",         "place": ["lhasa", "gyantse"],                                                "years": [1904, 1907], "region": "Tibet"}
+  ],
+
+  "loot_language": ["looted", "loot of", "plunder", "plundered", "pillage", "sack of", "sacked", "spoils", "war booty", "prize of war", "taken from", "taken at", "taken during", "captured at", "captured during", "captured from", "seized", "removed from the palace", "booty"],
+
+  "military_rank": ["general", "colonel", "captain", "major", "lieutenant", "admiral", "brigadier", "commander", "commodore", "field marshal", "sergeant", "expeditionary force", "punitive expedition", "military expedition", "regiment", "fusiliers", "hussars"],
+
+  "donation_verbs": ["presented by", "donated by", "gift of", "bequeathed by", "given by"],
+
+  "colonial_channels": ["gold coast government", "colonial office", "foreign office", "crown agents", "royal niger company", "east india company", "niger coast protectorate", "imperial british east africa", "sudan government", "government of india"],
+
+  "depiction_types": ["print", "drawing", "photograph", "photo", "sketch", "painting", "engraving", "etching", "watercolour", "lithograph", "postcard", "book-illustration", "aquatint", "mezzotint"],
+
+  "sacred_regalia": ["tabot", "altar", "shrine", "reliquary", "regalia", "sacred", "ceremonial", "idol", "funerary", "ark of the covenant"],
+
+  "human_remains": ["human remains", "skull", "cranium", "skeleton", "mummy", "mummified", "ancestral remains"],
+
+  "excavation": ["excavated", "excavation", "dug up", "unearthed", "removed from the site"],
+
+  "foreign_findspot_terms": ["benin", "nigeria", "ethiopia", "abyssinia", "ghana", "asante", "sudan", "china", "beijing", "tibet", "dahomey", "africa", "egypt", "india", "burma", "maqdala", "magdala", "palace"],
+
+  "weights": {
+    "episode": 6,
+    "loot_language": 6,
+    "military_donor": 4,
+    "human_remains": 4,
+    "colonial_channel": 3,
+    "royal_or_palace_site": 3,
+    "expedition_collected": 3,
+    "sacred_regalia": 2,
+    "excavated_foreign": 2
+  },
+
+  "mitigations": {
+    "modern_year_threshold": 1960,
+    "modern_cap": 1,
+    "depiction_cap": 2
+  },
+
+  "bands": {"strong": 6, "review": 3}
+}

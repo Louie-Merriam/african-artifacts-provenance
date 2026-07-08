@@ -1,0 +1,37 @@
+{
+  "_comment": "v3 watchlist for BM colonial-acquisition flagging. Episodes confirm by MULTIPLE PATHS (core place term + any corroborator: a second related place term, an acquisition-year in range, loot language, or a palace/channel/military signal) - date is one path, not the sole gate. All place/loot/channel matching is done over PROVENANCE fields only (acquisition notes, names, findspot, curators comments, culture), NOT the object Description, so that a print DEPICTING a looted scene is not mistaken for a looted object. Matching is word-boundary, case-insensitive. EXPAND the lists to grow coverage.",
+
+  "provenance_fields": ["Acq notes (acq)", "Acq notes (exc)", "Curators Comments", "Acq name (acq)", "Acq name (previous)", "Acq name (excavator)", "Find spot", "Production place", "Culture"],
+
+  "episodes": [
+    {"id": "benin_1897",         "core": ["benin city", "great benin", "oba of benin", "benin bronze", "benin expedition"], "region": ["benin", "nigeria", "edo", "bini"], "years": [1897, 1915], "note": "bare 'benin' is a REGION term only (ambiguous with Republic of Benin/Dahomey); needs a corroborator"},
+    {"id": "maqdala_1868",       "core": ["maqdala", "magdala"],                                              "region": ["abyssinia", "ethiopia"],                 "years": [1867, 1872]},
+    {"id": "asante_wars",        "core": ["kumasi", "kumase", "coomassie", "manhyia", "bantama", "asantehene", "prempeh"], "region": ["asante", "ashanti", "gold coast", "ghana"], "years": [1873, 1901]},
+    {"id": "dahomey_1892",       "core": ["abomey", "behanzin", "danxome"],                                   "region": ["dahomey"],                               "years": [1892, 1896]},
+    {"id": "omdurman_1898",      "core": ["omdurman", "mahdist", "khalifa"],                                  "region": ["sudan", "khartoum", "mahdi"],            "years": [1897, 1901]},
+    {"id": "summer_palace_1860", "core": ["yuanmingyuan", "summer palace", "yuan ming yuan"],                "region": ["beijing", "peking", "pekin", "china"],   "years": [1860, 1864]},
+    {"id": "tibet_1904",         "core": ["lhasa", "gyantse"],                                                "region": ["tibet"],                                 "years": [1904, 1907]}
+  ],
+
+  "loot_language": ["looted", "loot of", "plunder", "plundered", "pillage", "sack of", "sacked", "spoils", "war booty", "prize of war", "taken from", "taken at", "taken during", "captured at", "captured during", "captured from", "seized", "removed from the palace", "booty"],
+  "military_rank": ["general", "colonel", "captain", "major", "lieutenant", "admiral", "brigadier", "commander", "commodore", "field marshal", "sergeant", "expeditionary force", "punitive expedition", "military expedition", "regiment", "fusiliers", "hussars"],
+  "donation_verbs": ["presented by", "donated by", "gift of", "bequeathed by", "given by"],
+  "colonial_channels": ["gold coast government", "colonial office", "foreign office", "crown agents", "royal niger company", "east india company", "niger coast protectorate", "imperial british east africa", "sudan government", "government of india"],
+  "depiction_types": ["print", "drawing", "photograph", "photo", "sketch", "painting", "engraving", "etching", "watercolour", "lithograph", "postcard", "book-illustration", "aquatint", "mezzotint"],
+  "sacred_regalia": ["tabot", "altar", "shrine", "reliquary", "regalia", "sacred", "ceremonial", "idol", "funerary", "ark of the covenant"],
+  "human_remains": ["human remains", "skull", "cranium", "skeleton", "mummy", "mummified", "ancestral remains"],
+  "excavation": ["excavated", "excavation", "dug up", "unearthed", "removed from the site"],
+  "foreign_findspot_terms": ["benin", "nigeria", "ethiopia", "abyssinia", "ghana", "asante", "sudan", "china", "beijing", "tibet", "dahomey", "africa", "egypt", "india", "burma", "maqdala", "magdala", "palace"],
+
+  "weights": {
+    "episode_strong": 6, "episode_context": 4,
+    "loot_language": 6, "military_donor": 4, "human_remains": 4,
+    "colonial_channel": 3, "royal_or_palace_site": 3, "expedition_collected": 3,
+    "sacred_regalia": 2, "excavated_foreign": 2
+  },
+  "mitigations": {
+    "modern_year_threshold": 1960, "modern_cap": 1, "depiction_cap": 2,
+    "context_year_max": 1935, "palace_year_max": 1925
+  },
+  "bands": {"strong": 6, "review": 3}
+}

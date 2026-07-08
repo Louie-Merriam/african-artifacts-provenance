@@ -1,0 +1,4777 @@
+{
+ "source": "digitalbenin.org/provenance",
+ "retrieved": "2026-07-04",
+ "method": "Sanity CMS public query API of digitalbenin.org (project 8q01xvhz, dataset 'development'): registry = unique benin_object.provenance_events[].source[] actor references (excluding institution/null/archive-source refs) joined to actor docs for db_id+name; matches the 954/954 names shown on /provenance; id = numeric DB_actor id = /provenance/{id} URL.",
+ "entries": [
+  {
+   "id": 0,
+   "name": "No provenance identified",
+   "type": "unknown"
+  },
+  {
+   "id": 1,
+   "name": "Glendining & Co",
+   "type": "institution"
+  },
+  {
+   "id": 2,
+   "name": "Wellcome Institute for the History of Medicine, London",
+   "type": "institution"
+  },
+  {
+   "id": 3,
+   "name": "Cockburn, William Alexander Crawford",
+   "type": "person"
+  },
+  {
+   "id": 6,
+   "name": "Beasley, Irene Marguerite",
+   "type": "person"
+  },
+  {
+   "id": 8,
+   "name": "Rollin & Feuardent",
+   "type": "institution"
+  },
+  {
+   "id": 9,
+   "name": "Oldman, Dorothy K.",
+   "type": "person"
+  },
+  {
+   "id": 11,
+   "name": "Unwin, Arthur Harold",
+   "type": "person"
+  },
+  {
+   "id": 12,
+   "name": "Fagg, William Buller",
+   "type": "person"
+  },
+  {
+   "id": 14,
+   "name": "Powell-Cotton, Percy Horace Gordon",
+   "type": "person"
+  },
+  {
+   "id": 15,
+   "name": "Campbell, F. G.",
+   "type": "person"
+  },
+  {
+   "id": 16,
+   "name": "Ingram, William James",
+   "type": "person"
+  },
+  {
+   "id": 17,
+   "name": "Cordner, Edward James Kennedy",
+   "type": "person"
+  },
+  {
+   "id": 18,
+   "name": "Burney, Sydney Bernard",
+   "type": "person"
+  },
+  {
+   "id": 19,
+   "name": "Webster (born Cutter), Eva Amarantha",
+   "type": "person"
+  },
+  {
+   "id": 21,
+   "name": "Fuller, Estelle W.",
+   "type": "person"
+  },
+  {
+   "id": 22,
+   "name": "Fuller, Alfred Walter Francis",
+   "type": "person"
+  },
+  {
+   "id": 25,
+   "name": "Bradbury, Robert Elwyn",
+   "type": "person"
+  },
+  {
+   "id": 27,
+   "name": "Campbell, Charles",
+   "type": "person"
+  },
+  {
+   "id": 29,
+   "name": "Webster, William Downing",
+   "type": "person"
+  },
+  {
+   "id": 33,
+   "name": "Moor, Ralph Denham Rayment",
+   "type": "person"
+  },
+  {
+   "id": 37,
+   "name": "Oldman, William Ockelford",
+   "type": "person"
+  },
+  {
+   "id": 42,
+   "name": "Sotheby's",
+   "type": "institution"
+  },
+  {
+   "id": 66,
+   "name": "Roth, Henry Ling",
+   "type": "person"
+  },
+  {
+   "id": 82,
+   "name": "Seligman, Charles Gabriel",
+   "type": "person"
+  },
+  {
+   "id": 107,
+   "name": "Crown Agents for the Colonies",
+   "type": "institution"
+  },
+  {
+   "id": 115,
+   "name": "Hale & Son",
+   "type": "institution"
+  },
+  {
+   "id": 121,
+   "name": "Roupell, Ernest Percy Stuart",
+   "type": "person"
+  },
+  {
+   "id": 166,
+   "name": "Gallwey (Galway), Henry Lionel",
+   "type": "person"
+  },
+  {
+   "id": 212,
+   "name": "J. J. Klejman Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 220,
+   "name": "Rawson, Frederick H.",
+   "type": "person"
+  },
+  {
+   "id": 265,
+   "name": "Bey, Heinrich",
+   "type": "person"
+  },
+  {
+   "id": 467,
+   "name": "Locke, Ralph Frederick",
+   "type": "person"
+  },
+  {
+   "id": 468,
+   "name": "Howe, John Patrick",
+   "type": "person"
+  },
+  {
+   "id": 470,
+   "name": "Erdmann, Friedrich",
+   "type": "person"
+  },
+  {
+   "id": 474,
+   "name": "Beasley, Harry Geoffrey",
+   "type": "person"
+  },
+  {
+   "id": 476,
+   "name": "Perls, Klaus Gunther & Amelia 'Dolly'",
+   "type": "person"
+  },
+  {
+   "id": 477,
+   "name": "Schmidt, Eduard",
+   "type": "person"
+  },
+  {
+   "id": 478,
+   "name": "Knorr, Carl Heinrich Eduard",
+   "type": "person"
+  },
+  {
+   "id": 479,
+   "name": "Baessler, Arthur",
+   "type": "person"
+  },
+  {
+   "id": 480,
+   "name": "Meyer, Hans",
+   "type": "person"
+  },
+  {
+   "id": 481,
+   "name": "Balfour, Henry",
+   "type": "person"
+  },
+  {
+   "id": 482,
+   "name": "Ansorge, William John",
+   "type": "person"
+  },
+  {
+   "id": 483,
+   "name": "Stevens Auction Rooms",
+   "type": "institution"
+  },
+  {
+   "id": 484,
+   "name": "Lembcke, John",
+   "type": "person"
+  },
+  {
+   "id": 485,
+   "name": "Le Clerc Egerton, George",
+   "type": "person"
+  },
+  {
+   "id": 486,
+   "name": "Omoruyi, A.",
+   "type": "person"
+  },
+  {
+   "id": 487,
+   "name": "Nevins, Hugh Nevins",
+   "type": "person"
+  },
+  {
+   "id": 488,
+   "name": "Granville, Reginald Kerr",
+   "type": "person"
+  },
+  {
+   "id": 489,
+   "name": "Kingsley, Charles G.",
+   "type": "person"
+  },
+  {
+   "id": 490,
+   "name": "Kingsley, Mary Henrietta",
+   "type": "person"
+  },
+  {
+   "id": 491,
+   "name": "Wellcome, Henry Solomon",
+   "type": "person"
+  },
+  {
+   "id": 492,
+   "name": "Connah, Graham Edward",
+   "type": "person"
+  },
+  {
+   "id": 495,
+   "name": "Hildburgh, Walter Leo",
+   "type": "person"
+  },
+  {
+   "id": 496,
+   "name": "Rautenstrauch, Eugen",
+   "type": "person"
+  },
+  {
+   "id": 497,
+   "name": "Rautenstrauch, Adele",
+   "type": "person"
+  },
+  {
+   "id": 498,
+   "name": "Rautenstrauch, Theodor 'Theo'",
+   "type": "person"
+  },
+  {
+   "id": 499,
+   "name": "Stefenelli, Max von",
+   "type": "person"
+  },
+  {
+   "id": 500,
+   "name": "Maschmann, Wilhelm Albert",
+   "type": "person"
+  },
+  {
+   "id": 501,
+   "name": "Hirshhorn, Joseph Herman",
+   "type": "person"
+  },
+  {
+   "id": 503,
+   "name": "Ogbon, E. A. L.",
+   "type": "person"
+  },
+  {
+   "id": 505,
+   "name": "Peek, Cuthbert Edgar",
+   "type": "person"
+  },
+  {
+   "id": 506,
+   "name": "Gurlitt, Hildebrand",
+   "type": "person"
+  },
+  {
+   "id": 507,
+   "name": "Rockefeller, Nelson Aldrich",
+   "type": "person"
+  },
+  {
+   "id": 508,
+   "name": "Willhöft, G.",
+   "type": "person"
+  },
+  {
+   "id": 510,
+   "name": "Gordon, George Byron",
+   "type": "person"
+  },
+  {
+   "id": 511,
+   "name": "Langton, L. R.",
+   "type": "person"
+  },
+  {
+   "id": 512,
+   "name": "Jaffé, Siegfried",
+   "type": "person"
+  },
+  {
+   "id": 513,
+   "name": "Becker, Carl Heinrich",
+   "type": "person"
+  },
+  {
+   "id": 514,
+   "name": "Heemke, Bernhard Adolf",
+   "type": "person"
+  },
+  {
+   "id": 515,
+   "name": "Lawrence, George Fabian 'Stoney Jack'",
+   "type": "person"
+  },
+  {
+   "id": 516,
+   "name": "Erdmann, Alma",
+   "type": "person"
+  },
+  {
+   "id": 519,
+   "name": "Thomas, Northcote Whitridge",
+   "type": "person"
+  },
+  {
+   "id": 520,
+   "name": "Bevan, Anthony Ashley",
+   "type": "person"
+  },
+  {
+   "id": 521,
+   "name": "Bey & Co.",
+   "type": "institution"
+  },
+  {
+   "id": 522,
+   "name": "Parke-Bernet Galleries",
+   "type": "institution"
+  },
+  {
+   "id": 523,
+   "name": "Dumas-Egerton Trust",
+   "type": "institution"
+  },
+  {
+   "id": 524,
+   "name": "Wellcome Trust",
+   "type": "institution"
+  },
+  {
+   "id": 525,
+   "name": "Luschan, Felix Ritter von",
+   "type": "person"
+  },
+  {
+   "id": 526,
+   "name": "Bates, Oric",
+   "type": "person"
+  },
+  {
+   "id": 527,
+   "name": "Meyer, Elisabeth",
+   "type": "person"
+  },
+  {
+   "id": 528,
+   "name": "Museum für Kunst und Gewerbe, Hamburg",
+   "type": "institution"
+  },
+  {
+   "id": 529,
+   "name": "Schmeltz, Johannes Dietrich Eduard",
+   "type": "person"
+  },
+  {
+   "id": 531,
+   "name": "Meyer community of heirs",
+   "type": "institution"
+  },
+  {
+   "id": 532,
+   "name": "Coray, Han",
+   "type": "person"
+  },
+  {
+   "id": 533,
+   "name": "Knoops, Mathias",
+   "type": "person"
+  },
+  {
+   "id": 534,
+   "name": "Tropenmuseum, Amsterdam",
+   "type": "institution"
+  },
+  {
+   "id": 536,
+   "name": "Wellcome Collection",
+   "type": "institution"
+  },
+  {
+   "id": 537,
+   "name": "J. F. G. Umlauff",
+   "type": "institution"
+  },
+  {
+   "id": 539,
+   "name": "Salvesen, Dorothy",
+   "type": "person"
+  },
+  {
+   "id": 540,
+   "name": "Graham, Thomas G.",
+   "type": "person"
+  },
+  {
+   "id": 541,
+   "name": "Tishman, Paul & Ruth",
+   "type": "person"
+  },
+  {
+   "id": 543,
+   "name": "Walt Disney World Company",
+   "type": "institution"
+  },
+  {
+   "id": 544,
+   "name": "White (Reswick, Merkel), Katherine Coryton",
+   "type": "person"
+  },
+  {
+   "id": 545,
+   "name": "Boeing Company",
+   "type": "institution"
+  },
+  {
+   "id": 546,
+   "name": "Salford Museum and Art Gallery, Salford",
+   "type": "institution"
+  },
+  {
+   "id": 547,
+   "name": "Taylor, Charles",
+   "type": "person"
+  },
+  {
+   "id": 548,
+   "name": "Hewer, A.",
+   "type": "person"
+  },
+  {
+   "id": 549,
+   "name": "Jepsen, Albert",
+   "type": "person"
+  },
+  {
+   "id": 550,
+   "name": "Whitaker Clayton, T.",
+   "type": "person"
+  },
+  {
+   "id": 551,
+   "name": "Kaiser, Oscar",
+   "type": "person"
+  },
+  {
+   "id": 552,
+   "name": "Warnholtz, Hugo",
+   "type": "person"
+  },
+  {
+   "id": 553,
+   "name": "Green, Frederick William",
+   "type": "person"
+  },
+  {
+   "id": 554,
+   "name": "Wehrli, Hans Jakob",
+   "type": "person"
+  },
+  {
+   "id": 555,
+   "name": "Thompson, Henry Nilus",
+   "type": "person"
+  },
+  {
+   "id": 556,
+   "name": "Diehl, Adolf",
+   "type": "person"
+  },
+  {
+   "id": 559,
+   "name": "Heeramaneck, Alice & Nasli",
+   "type": "person"
+  },
+  {
+   "id": 560,
+   "name": "Fenton & Sons",
+   "type": "institution"
+  },
+  {
+   "id": 561,
+   "name": "Lippert, Ernst",
+   "type": "person"
+  },
+  {
+   "id": 562,
+   "name": "Hoffa, Albert",
+   "type": "person"
+  },
+  {
+   "id": 563,
+   "name": "Strumpf, S.",
+   "type": "person"
+  },
+  {
+   "id": 564,
+   "name": "Rogers, H. E.",
+   "type": "person"
+  },
+  {
+   "id": 566,
+   "name": "Ayer, Edward Everett",
+   "type": "person"
+  },
+  {
+   "id": 567,
+   "name": "Davidson-Houston, Wilfred Bennett",
+   "type": "person"
+  },
+  {
+   "id": 568,
+   "name": "Lumley, W. A.",
+   "type": "person"
+  },
+  {
+   "id": 569,
+   "name": "Davis, John Lionberger",
+   "type": "person"
+  },
+  {
+   "id": 570,
+   "name": "Frisch, John Paul",
+   "type": "person"
+  },
+  {
+   "id": 571,
+   "name": "Fenton, Samuel George",
+   "type": "person"
+  },
+  {
+   "id": 572,
+   "name": "Jenkinson, Francis John Henry",
+   "type": "person"
+  },
+  {
+   "id": 573,
+   "name": "Collins, William Wiehé",
+   "type": "person"
+  },
+  {
+   "id": 574,
+   "name": "Frank, Gustav Adolph",
+   "type": "person"
+  },
+  {
+   "id": 576,
+   "name": "McMillan, William Northrup",
+   "type": "person"
+  },
+  {
+   "id": 577,
+   "name": "McLean Museum and Art Gallery, Greenock",
+   "type": "institution"
+  },
+  {
+   "id": 579,
+   "name": "Bedford, Frederick George Denham",
+   "type": "person"
+  },
+  {
+   "id": 580,
+   "name": "Bedford (maiden name, Turner), Ethel Charlotte",
+   "type": "person"
+  },
+  {
+   "id": 582,
+   "name": "Stolper Galleries of Primitive Arts",
+   "type": "institution"
+  },
+  {
+   "id": 583,
+   "name": "Roth, Felix Norman",
+   "type": "person"
+  },
+  {
+   "id": 586,
+   "name": "Seton-Karr, Heywood Walter",
+   "type": "person"
+  },
+  {
+   "id": 588,
+   "name": "Karutz, Richard",
+   "type": "person"
+  },
+  {
+   "id": 589,
+   "name": "Danford, John",
+   "type": "person"
+  },
+  {
+   "id": 595,
+   "name": "Bieger, Paul",
+   "type": "person"
+  },
+  {
+   "id": 596,
+   "name": "Held, Hermann",
+   "type": "person"
+  },
+  {
+   "id": 599,
+   "name": "Harris and Sinclair",
+   "type": "institution"
+  },
+  {
+   "id": 600,
+   "name": "Warden, Arnold Forrester",
+   "type": "person"
+  },
+  {
+   "id": 601,
+   "name": "Lüttge, Fritz",
+   "type": "person"
+  },
+  {
+   "id": 602,
+   "name": "Idubor, Felix",
+   "type": "person"
+  },
+  {
+   "id": 603,
+   "name": "Duckworth, Edward Harland",
+   "type": "person"
+  },
+  {
+   "id": 604,
+   "name": "Erhabor, H. I.",
+   "type": "person"
+  },
+  {
+   "id": 608,
+   "name": "Love, Audrey B. (maiden name, Josephthal) & Cornelius Ruxton",
+   "type": "person"
+  },
+  {
+   "id": 609,
+   "name": "Cobbett, Louis",
+   "type": "person"
+  },
+  {
+   "id": 610,
+   "name": "Grier, Selwyn MacGregor",
+   "type": "person"
+  },
+  {
+   "id": 611,
+   "name": "Clarke, Louis Colville Gray",
+   "type": "person"
+  },
+  {
+   "id": 612,
+   "name": "Sarasin, Karl Friedrich 'Fritz'",
+   "type": "person"
+  },
+  {
+   "id": 613,
+   "name": "Barth, Hans Ernst",
+   "type": "person"
+  },
+  {
+   "id": 614,
+   "name": "Galerie Maria et Paul Wyss",
+   "type": "institution"
+  },
+  {
+   "id": 616,
+   "name": "Schenk, Rolf & Ulrike",
+   "type": "person"
+  },
+  {
+   "id": 617,
+   "name": "Douglas, Harold Moseley",
+   "type": "person"
+  },
+  {
+   "id": 618,
+   "name": "Reitlinger, Gerald Roberts",
+   "type": "person"
+  },
+  {
+   "id": 619,
+   "name": "Ashmolean Museum, Oxford",
+   "type": "institution"
+  },
+  {
+   "id": 620,
+   "name": "Harle, James Coffin",
+   "type": "person"
+  },
+  {
+   "id": 621,
+   "name": "Swainson, John Henry",
+   "type": "person"
+  },
+  {
+   "id": 622,
+   "name": "Karpinski, Peter",
+   "type": "person"
+  },
+  {
+   "id": 623,
+   "name": "Lucas, Frederick William",
+   "type": "person"
+  },
+  {
+   "id": 624,
+   "name": "Carlebach, Julius",
+   "type": "person"
+  },
+  {
+   "id": 625,
+   "name": "Rogers, Millicent Abigail",
+   "type": "person"
+  },
+  {
+   "id": 626,
+   "name": "Peralta-Ramos, Arturo",
+   "type": "person"
+  },
+  {
+   "id": 627,
+   "name": "Peralta-Ramos, Paul",
+   "type": "person"
+  },
+  {
+   "id": 630,
+   "name": "Eiteljorg, Edith Morgan & Harrison",
+   "type": "person"
+  },
+  {
+   "id": 632,
+   "name": "Andree, Richard",
+   "type": "person"
+  },
+  {
+   "id": 634,
+   "name": "Hinzpeter, W.",
+   "type": "person"
+  },
+  {
+   "id": 635,
+   "name": "Himburg, W. H.",
+   "type": "person"
+  },
+  {
+   "id": 636,
+   "name": "Callsen, Heinz & Martha",
+   "type": "person"
+  },
+  {
+   "id": 638,
+   "name": "Konietzko, Julius August",
+   "type": "person"
+  },
+  {
+   "id": 639,
+   "name": "Withofs, Patricia Ann",
+   "type": "person"
+  },
+  {
+   "id": 641,
+   "name": "Entwistle, Lance & Roberta",
+   "type": "person"
+  },
+  {
+   "id": 642,
+   "name": "Claus, M.",
+   "type": "person"
+  },
+  {
+   "id": 643,
+   "name": "Berggruen, Heinz",
+   "type": "person"
+  },
+  {
+   "id": 644,
+   "name": "Lürmann, Stephan",
+   "type": "person"
+  },
+  {
+   "id": 645,
+   "name": "Ziskin, Ronald",
+   "type": "person"
+  },
+  {
+   "id": 646,
+   "name": "Stow, Harry",
+   "type": "person"
+  },
+  {
+   "id": 647,
+   "name": "Pitt-Rivers (Lane Fox), Augustus Henry",
+   "type": "person"
+  },
+  {
+   "id": 648,
+   "name": "Joss, Jerome Lionel",
+   "type": "person"
+  },
+  {
+   "id": 649,
+   "name": "Scheinberg, Alfred L.",
+   "type": "person"
+  },
+  {
+   "id": 650,
+   "name": "Fantel, Ernest & Mary Louise",
+   "type": "person"
+  },
+  {
+   "id": 653,
+   "name": "McIlwaine, John Bedell Stainford",
+   "type": "person"
+  },
+  {
+   "id": 656,
+   "name": "Christie's",
+   "type": "institution"
+  },
+  {
+   "id": 657,
+   "name": "Wilson",
+   "type": "person"
+  },
+  {
+   "id": 658,
+   "name": "Österreichisches Kaiserhaus (Imperial and Royal Monarchy)",
+   "type": "institution"
+  },
+  {
+   "id": 659,
+   "name": "Diamond, Harald Leo",
+   "type": "person"
+  },
+  {
+   "id": 660,
+   "name": "Künzi, Annerose",
+   "type": "person"
+  },
+  {
+   "id": 664,
+   "name": "Joseph Hirshhorn Foundation",
+   "type": "institution"
+  },
+  {
+   "id": 665,
+   "name": "Saad, Moddi",
+   "type": "person"
+  },
+  {
+   "id": 666,
+   "name": "Reichert, F. W.",
+   "type": "person"
+  },
+  {
+   "id": 667,
+   "name": "Schultz, Christoph",
+   "type": "person"
+  },
+  {
+   "id": 668,
+   "name": "Block, Adolf",
+   "type": "person"
+  },
+  {
+   "id": 669,
+   "name": "Raphael, Martha",
+   "type": "person"
+  },
+  {
+   "id": 670,
+   "name": "Meyer, Oskar",
+   "type": "person"
+  },
+  {
+   "id": 671,
+   "name": "Hiltawski, M.",
+   "type": "person"
+  },
+  {
+   "id": 672,
+   "name": "Bey, Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 673,
+   "name": "Jackson",
+   "type": "person"
+  },
+  {
+   "id": 674,
+   "name": "Ridgeway, William",
+   "type": "person"
+  },
+  {
+   "id": 675,
+   "name": "Beddington, Herbert",
+   "type": "person"
+  },
+  {
+   "id": 676,
+   "name": "Haddon, Alfred Cort",
+   "type": "person"
+  },
+  {
+   "id": 680,
+   "name": "Renwick, A. Reid",
+   "type": "person"
+  },
+  {
+   "id": 681,
+   "name": "McJannet, J. S. G.",
+   "type": "person"
+  },
+  {
+   "id": 682,
+   "name": "Emmanuel",
+   "type": "person"
+  },
+  {
+   "id": 683,
+   "name": "Osayame, Edwin",
+   "type": "person"
+  },
+  {
+   "id": 684,
+   "name": "Françoise Billion Richardson Charitable Trust",
+   "type": "institution"
+  },
+  {
+   "id": 685,
+   "name": "Billion Richardson, Françoise",
+   "type": "person"
+  },
+  {
+   "id": 686,
+   "name": "James G. Hanes Memorial Fund",
+   "type": "institution"
+  },
+  {
+   "id": 687,
+   "name": "Hanes, James Gordon",
+   "type": "person"
+  },
+  {
+   "id": 689,
+   "name": "Stevens, John Crace",
+   "type": "person"
+  },
+  {
+   "id": 690,
+   "name": "Clay, Landon Thomas",
+   "type": "person"
+  },
+  {
+   "id": 691,
+   "name": "Talbot, Percy Amaury",
+   "type": "person"
+  },
+  {
+   "id": 692,
+   "name": "Braithwaite Batty, Beatrice",
+   "type": "person"
+  },
+  {
+   "id": 693,
+   "name": "Heydt, Eduard von der",
+   "type": "person"
+  },
+  {
+   "id": 694,
+   "name": "Zacks-Abramov, Ayala",
+   "type": "person"
+  },
+  {
+   "id": 695,
+   "name": "Zacks, Samuel Jacob 'Sam'",
+   "type": "person"
+  },
+  {
+   "id": 696,
+   "name": "Luboldt, Walter",
+   "type": "person"
+  },
+  {
+   "id": 697,
+   "name": "Meyer, Hermann August Heinrich",
+   "type": "person"
+  },
+  {
+   "id": 698,
+   "name": "Ribbert, V.",
+   "type": "person"
+  },
+  {
+   "id": 700,
+   "name": "Blad, Casper Andreas Valdemar",
+   "type": "person"
+  },
+  {
+   "id": 701,
+   "name": "Simpson, Merton Daniel",
+   "type": "person"
+  },
+  {
+   "id": 702,
+   "name": "Galerie Walu",
+   "type": "institution"
+  },
+  {
+   "id": 703,
+   "name": "Schembera, Kurt",
+   "type": "person"
+  },
+  {
+   "id": 706,
+   "name": "Ridyard, Arnold",
+   "type": "person"
+  },
+  {
+   "id": 707,
+   "name": "Johnstone, E. H.",
+   "type": "person"
+  },
+  {
+   "id": 708,
+   "name": "Ballard, Ernest",
+   "type": "person"
+  },
+  {
+   "id": 709,
+   "name": "Ponsford, Lilian C.",
+   "type": "person"
+  },
+  {
+   "id": 711,
+   "name": "Macdonald, Ronald",
+   "type": "person"
+  },
+  {
+   "id": 713,
+   "name": "Alfred W. Jenkins Fund",
+   "type": "institution"
+  },
+  {
+   "id": 714,
+   "name": "University of Pennsylvania Museum of Archaeology and Anthropology (Penn Museum), Philadelphia",
+   "type": "institution"
+  },
+  {
+   "id": 715,
+   "name": "Baldwin, George William",
+   "type": "person"
+  },
+  {
+   "id": 716,
+   "name": "National Maritime Museum, London",
+   "type": "institution"
+  },
+  {
+   "id": 719,
+   "name": "Theodor Knywel Tierexport",
+   "type": "institution"
+  },
+  {
+   "id": 720,
+   "name": "Ratton, Charles Alfred Marius",
+   "type": "person"
+  },
+  {
+   "id": 721,
+   "name": "Tillmann, W. Georg",
+   "type": "person"
+  },
+  {
+   "id": 723,
+   "name": "Berkeley Galleries",
+   "type": "institution"
+  },
+  {
+   "id": 724,
+   "name": "Chadourne, Paul",
+   "type": "person"
+  },
+  {
+   "id": 725,
+   "name": "James Willis Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 728,
+   "name": "Kuhn, Helene",
+   "type": "person"
+  },
+  {
+   "id": 729,
+   "name": "Robert and Helen Kuhn Family Trust",
+   "type": "institution"
+  },
+  {
+   "id": 730,
+   "name": "Alexander Suggs Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 731,
+   "name": "Uhlman, Jack",
+   "type": "person"
+  },
+  {
+   "id": 732,
+   "name": "Salinger Bequest Fund",
+   "type": "institution"
+  },
+  {
+   "id": 733,
+   "name": "Leloup (born Copin), Hélène",
+   "type": "person"
+  },
+  {
+   "id": 734,
+   "name": "Hewett, Kenneth John",
+   "type": "person"
+  },
+  {
+   "id": 735,
+   "name": "Schwartz, Adolph",
+   "type": "person"
+  },
+  {
+   "id": 736,
+   "name": "Willis, James W.",
+   "type": "person"
+  },
+  {
+   "id": 737,
+   "name": "British Foreign Office",
+   "type": "institution"
+  },
+  {
+   "id": 738,
+   "name": "British Admiralty",
+   "type": "institution"
+  },
+  {
+   "id": 739,
+   "name": "Emma Harter Sweetser Fund",
+   "type": "institution"
+  },
+  {
+   "id": 740,
+   "name": "Pitt-Rivers Museum, Farnham",
+   "type": "institution"
+  },
+  {
+   "id": 741,
+   "name": "Leff, Jay C.",
+   "type": "person"
+  },
+  {
+   "id": 742,
+   "name": "Ganeles, Judith",
+   "type": "person"
+  },
+  {
+   "id": 745,
+   "name": "Diop, Papa",
+   "type": "person"
+  },
+  {
+   "id": 746,
+   "name": "Jones, Robert",
+   "type": "person"
+  },
+  {
+   "id": 747,
+   "name": "Slater, Thomas",
+   "type": "person"
+  },
+  {
+   "id": 749,
+   "name": "Linden-Museum, Staatliches Museum für Völkerkunde, Stuttgart",
+   "type": "institution"
+  },
+  {
+   "id": 750,
+   "name": "Bretschneider, Ludwig",
+   "type": "person"
+  },
+  {
+   "id": 751,
+   "name": "Pace Primitive",
+   "type": "institution"
+  },
+  {
+   "id": 752,
+   "name": "Donald Morris Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 753,
+   "name": "Stanley, Claude Maxwell 'Max' & Elizabeth M. 'Betty'",
+   "type": "person"
+  },
+  {
+   "id": 754,
+   "name": "Stanley, Mary Jo & Richard H. 'Dick'",
+   "type": "person"
+  },
+  {
+   "id": 756,
+   "name": "Hautelet, Jacques",
+   "type": "person"
+  },
+  {
+   "id": 757,
+   "name": "Rayburn, Harold & Patricia",
+   "type": "person"
+  },
+  {
+   "id": 758,
+   "name": "Oumar Keinde African Arts",
+   "type": "institution"
+  },
+  {
+   "id": 760,
+   "name": "Holcombe, Bryce",
+   "type": "person"
+  },
+  {
+   "id": 761,
+   "name": "Koita, Mamadou",
+   "type": "person"
+  },
+  {
+   "id": 762,
+   "name": "Bing Arnold, Anna",
+   "type": "person"
+  },
+  {
+   "id": 763,
+   "name": "Thaw, Eugene Victor",
+   "type": "person"
+  },
+  {
+   "id": 764,
+   "name": "Kofler, Ernst",
+   "type": "person"
+  },
+  {
+   "id": 765,
+   "name": "Wilhelm II",
+   "type": "person"
+  },
+  {
+   "id": 766,
+   "name": "Merx, Gerhard",
+   "type": "person"
+  },
+  {
+   "id": 768,
+   "name": "Hunt, John",
+   "type": "person"
+  },
+  {
+   "id": 769,
+   "name": "Lauder, Robert",
+   "type": "person"
+  },
+  {
+   "id": 770,
+   "name": "Nehama, Albert",
+   "type": "person"
+  },
+  {
+   "id": 771,
+   "name": "Monbrison, Alain de",
+   "type": "person"
+  },
+  {
+   "id": 772,
+   "name": "Dormitzer, Walter",
+   "type": "person"
+  },
+  {
+   "id": 773,
+   "name": "Demuth, Wilhelm C. 'William'",
+   "type": "person"
+  },
+  {
+   "id": 774,
+   "name": "Bache (born Odenheimer), Alice K.",
+   "type": "person"
+  },
+  {
+   "id": 775,
+   "name": "Museum of Liverpool, Liverpool",
+   "type": "institution"
+  },
+  {
+   "id": 776,
+   "name": "Schuyler, Remington",
+   "type": "person"
+  },
+  {
+   "id": 779,
+   "name": "Aldrich, Lucy Truman",
+   "type": "person"
+  },
+  {
+   "id": 780,
+   "name": "M. Knoedler & Co.",
+   "type": "institution"
+  },
+  {
+   "id": 781,
+   "name": "Fuller, Richard Eugene",
+   "type": "person"
+  },
+  {
+   "id": 782,
+   "name": "Minassian, Adrienne",
+   "type": "person"
+  },
+  {
+   "id": 783,
+   "name": "Minassian, Kirkor",
+   "type": "person"
+  },
+  {
+   "id": 784,
+   "name": "Wise, John",
+   "type": "person"
+  },
+  {
+   "id": 785,
+   "name": "Allman, Robert B.",
+   "type": "person"
+  },
+  {
+   "id": 786,
+   "name": "Herzog Anton Ulrich-Museum (HAUM)",
+   "type": "institution"
+  },
+  {
+   "id": 787,
+   "name": "Ulrich, Anton",
+   "type": "person"
+  },
+  {
+   "id": 788,
+   "name": "Petersen, Ilse",
+   "type": "person"
+  },
+  {
+   "id": 789,
+   "name": "Röhwer",
+   "type": "person"
+  },
+  {
+   "id": 790,
+   "name": "Lemaire, Matthias Ludovicus Joannes",
+   "type": "person"
+  },
+  {
+   "id": 791,
+   "name": "Stolper Galleries",
+   "type": "institution"
+  },
+  {
+   "id": 792,
+   "name": "Francke, Theodor",
+   "type": "person"
+  },
+  {
+   "id": 793,
+   "name": "Weisbach, Valentin",
+   "type": "person"
+  },
+  {
+   "id": 794,
+   "name": "Mattika, E. H.",
+   "type": "person"
+  },
+  {
+   "id": 795,
+   "name": "Rudolph Lepke’s Kunst-Auctions-Haus",
+   "type": "institution"
+  },
+  {
+   "id": 796,
+   "name": "Glücksmann, Theodor",
+   "type": "person"
+  },
+  {
+   "id": 797,
+   "name": "Schaumburg, H.",
+   "type": "person"
+  },
+  {
+   "id": 798,
+   "name": "Holtmann, Emil",
+   "type": "person"
+  },
+  {
+   "id": 799,
+   "name": "Lüttge",
+   "type": "person"
+  },
+  {
+   "id": 800,
+   "name": "Carnap-Quernheimb, Ernst von",
+   "type": "person"
+  },
+  {
+   "id": 801,
+   "name": "Kaiserliches Auswärtiges Amt des Deutschen Reiches",
+   "type": "institution"
+  },
+  {
+   "id": 802,
+   "name": "Kunstkammer der Kurfürsten von Brandenburg",
+   "type": "institution"
+  },
+  {
+   "id": 803,
+   "name": "Königliche Preußische Kunstkammer",
+   "type": "institution"
+  },
+  {
+   "id": 804,
+   "name": "Speyer, Arthur Max Heinrich",
+   "type": "person"
+  },
+  {
+   "id": 805,
+   "name": "Speyer, Arthur Johannes Otto Jansen",
+   "type": "person"
+  },
+  {
+   "id": 806,
+   "name": "Hagen, Karl",
+   "type": "person"
+  },
+  {
+   "id": 807,
+   "name": "Brinckmann, Justus",
+   "type": "person"
+  },
+  {
+   "id": 808,
+   "name": "Legnay",
+   "type": "person"
+  },
+  {
+   "id": 809,
+   "name": "Schimpf, Walther",
+   "type": "person"
+  },
+  {
+   "id": 810,
+   "name": "Freuthal, Erich",
+   "type": "person"
+  },
+  {
+   "id": 812,
+   "name": "Thompson",
+   "type": "person"
+  },
+  {
+   "id": 813,
+   "name": "Erdmann, Kurt",
+   "type": "person"
+  },
+  {
+   "id": 814,
+   "name": "Kageneck, von",
+   "type": "person"
+  },
+  {
+   "id": 815,
+   "name": "Hoppe, Carl",
+   "type": "person"
+  },
+  {
+   "id": 816,
+   "name": "Heldt, Johannes Christian Eiler",
+   "type": "person"
+  },
+  {
+   "id": 818,
+   "name": "Geographische Gesellschaft",
+   "type": "institution"
+  },
+  {
+   "id": 819,
+   "name": "Max, Gabriel von",
+   "type": "person"
+  },
+  {
+   "id": 820,
+   "name": "Godeffroy",
+   "type": "unknown"
+  },
+  {
+   "id": 821,
+   "name": "Pöhl, C. A.",
+   "type": "person"
+  },
+  {
+   "id": 822,
+   "name": "Schilling, Hugo",
+   "type": "person"
+  },
+  {
+   "id": 823,
+   "name": "Wagenmann, Albert",
+   "type": "person"
+  },
+  {
+   "id": 825,
+   "name": "Wahlman, Maud Southwell",
+   "type": "person"
+  },
+  {
+   "id": 828,
+   "name": "Phillips, Son & Neale",
+   "type": "institution"
+  },
+  {
+   "id": 829,
+   "name": "Foster's",
+   "type": "institution"
+  },
+  {
+   "id": 830,
+   "name": "Comins, J. S.",
+   "type": "person"
+  },
+  {
+   "id": 831,
+   "name": "Wright, Arthur Robinson",
+   "type": "person"
+  },
+  {
+   "id": 832,
+   "name": "British Empire Exhibition, Wembley",
+   "type": "institution"
+  },
+  {
+   "id": 833,
+   "name": "Blackmun, Barbara Winston",
+   "type": "person"
+  },
+  {
+   "id": 834,
+   "name": "Webb, F. G.",
+   "type": "person"
+  },
+  {
+   "id": 835,
+   "name": "Hewlett, William",
+   "type": "person"
+  },
+  {
+   "id": 836,
+   "name": "Franklin, Ruth B.",
+   "type": "person"
+  },
+  {
+   "id": 838,
+   "name": "Neville, George William",
+   "type": "person"
+  },
+  {
+   "id": 839,
+   "name": "Dean, A. L.",
+   "type": "person"
+  },
+  {
+   "id": 840,
+   "name": "Jeffreys, Mervyn David Waldegrave",
+   "type": "person"
+  },
+  {
+   "id": 841,
+   "name": "Kegel, Lore",
+   "type": "person"
+  },
+  {
+   "id": 842,
+   "name": "Olbrechts-Maurissens, Margriet",
+   "type": "person"
+  },
+  {
+   "id": 843,
+   "name": "Olbrechts, Frans Maria",
+   "type": "person"
+  },
+  {
+   "id": 844,
+   "name": "Deletaille, Emile",
+   "type": "person"
+  },
+  {
+   "id": 845,
+   "name": "Van Os, J. G.",
+   "type": "person"
+  },
+  {
+   "id": 846,
+   "name": "Beer, Edgar",
+   "type": "person"
+  },
+  {
+   "id": 847,
+   "name": "Musées royaux d'Art et d'Histoire (MRAH), Brussels",
+   "type": "institution"
+  },
+  {
+   "id": 848,
+   "name": "Van Geluwe, Huguette",
+   "type": "person"
+  },
+  {
+   "id": 849,
+   "name": "Vaxelaire, R.",
+   "type": "person"
+  },
+  {
+   "id": 850,
+   "name": "Morgan, Frederick Cleveland",
+   "type": "person"
+  },
+  {
+   "id": 851,
+   "name": "Komor, Mathias",
+   "type": "person"
+  },
+  {
+   "id": 852,
+   "name": "Galerie Dominion",
+   "type": "institution"
+  },
+  {
+   "id": 853,
+   "name": "Stolk, A. P. van",
+   "type": "person"
+  },
+  {
+   "id": 854,
+   "name": "Hasoldt, von",
+   "type": "person"
+  },
+  {
+   "id": 857,
+   "name": "R. Stora and company",
+   "type": "institution"
+  },
+  {
+   "id": 858,
+   "name": "Molson, Mabel",
+   "type": "person"
+  },
+  {
+   "id": 862,
+   "name": "Hawthorn, Audrey",
+   "type": "person"
+  },
+  {
+   "id": 863,
+   "name": "Esmonde, Thomas Henry Grattan",
+   "type": "person"
+  },
+  {
+   "id": 864,
+   "name": "Schoeller, Max",
+   "type": "person"
+  },
+  {
+   "id": 865,
+   "name": "Flemming, J.",
+   "type": "person"
+  },
+  {
+   "id": 868,
+   "name": "Massar, Charles-Jacques",
+   "type": "person"
+  },
+  {
+   "id": 869,
+   "name": "Myttenaere, Paulette de",
+   "type": "person"
+  },
+  {
+   "id": 870,
+   "name": "Spring, Albert",
+   "type": "person"
+  },
+  {
+   "id": 871,
+   "name": "Ovonramwẹ N’Ogbaisi",
+   "type": "person"
+  },
+  {
+   "id": 872,
+   "name": "Ziemann, Hans",
+   "type": "person"
+  },
+  {
+   "id": 873,
+   "name": "Seeger, Hermann",
+   "type": "person"
+  },
+  {
+   "id": 874,
+   "name": "Rosenfeld",
+   "type": "person"
+  },
+  {
+   "id": 875,
+   "name": "Hunt, Gertrude",
+   "type": "person"
+  },
+  {
+   "id": 876,
+   "name": "Pitt-Rivers (Lane Fox), George Henry",
+   "type": "person"
+  },
+  {
+   "id": 877,
+   "name": "Linden, Karl Graf von",
+   "type": "person"
+  },
+  {
+   "id": 878,
+   "name": "Westendarp, Max",
+   "type": "person"
+  },
+  {
+   "id": 879,
+   "name": "Deurer, Wilhelm",
+   "type": "person"
+  },
+  {
+   "id": 880,
+   "name": "Pitt-Rivers (Lane Fox), Alexander Edward",
+   "type": "person"
+  },
+  {
+   "id": 881,
+   "name": "William Rockhill Nelson Trust",
+   "type": "institution"
+  },
+  {
+   "id": 882,
+   "name": "Hall, Donald Joyce & Adele Coryell",
+   "type": "person"
+  },
+  {
+   "id": 883,
+   "name": "Sutherland, Herman Robert & Mrs",
+   "type": "person"
+  },
+  {
+   "id": 884,
+   "name": "Nelson Gallery Foundation",
+   "type": "institution"
+  },
+  {
+   "id": 885,
+   "name": "Pilkington, William & Annie",
+   "type": "person"
+  },
+  {
+   "id": 887,
+   "name": "George H. and Elizabeth O. Davis Fund",
+   "type": "institution"
+  },
+  {
+   "id": 891,
+   "name": "Darbishire, Robert Dukinfield",
+   "type": "person"
+  },
+  {
+   "id": 892,
+   "name": "Whitworth Trust",
+   "type": "institution"
+  },
+  {
+   "id": 893,
+   "name": "Church Missionary Society",
+   "type": "institution"
+  },
+  {
+   "id": 895,
+   "name": "Carré, Louis",
+   "type": "person"
+  },
+  {
+   "id": 896,
+   "name": "Schnakenberg, Henry",
+   "type": "person"
+  },
+  {
+   "id": 897,
+   "name": "Office of Alien Property, Department of Justice",
+   "type": "institution"
+  },
+  {
+   "id": 900,
+   "name": "Sternberg, Josef von",
+   "type": "person"
+  },
+  {
+   "id": 901,
+   "name": "Museum of Primitive Arts, New York",
+   "type": "institution"
+  },
+  {
+   "id": 902,
+   "name": "Epstein, Jacob",
+   "type": "person"
+  },
+  {
+   "id": 903,
+   "name": "Hôtel Drouot",
+   "type": "institution"
+  },
+  {
+   "id": 904,
+   "name": "Müller, Josef Oskar",
+   "type": "person"
+  },
+  {
+   "id": 905,
+   "name": "Bacri Frères Antiquaires",
+   "type": "institution"
+  },
+  {
+   "id": 906,
+   "name": "Rubin, Samuel",
+   "type": "person"
+  },
+  {
+   "id": 907,
+   "name": "Read, Charles Hercules",
+   "type": "person"
+  },
+  {
+   "id": 908,
+   "name": "Seligman (born Salaman), Brenda Zara",
+   "type": "person"
+  },
+  {
+   "id": 909,
+   "name": "J. & M.L. Tregaskis",
+   "type": "institution"
+  },
+  {
+   "id": 910,
+   "name": "Egerton, Brian",
+   "type": "person"
+  },
+  {
+   "id": 911,
+   "name": "Poer O’Shee, Richard Alfred",
+   "type": "person"
+  },
+  {
+   "id": 912,
+   "name": "Hentze, E.",
+   "type": "person"
+  },
+  {
+   "id": 913,
+   "name": "Arman, Armand Pierre (born Fernandez) & Corice (born Canton)",
+   "type": "person"
+  },
+  {
+   "id": 914,
+   "name": "Hersey, Irwin & Marcia",
+   "type": "person"
+  },
+  {
+   "id": 915,
+   "name": "Augustin, Ernst",
+   "type": "person"
+  },
+  {
+   "id": 916,
+   "name": "Plass, Webster",
+   "type": "person"
+  },
+  {
+   "id": 918,
+   "name": "Hooper, James Thomas",
+   "type": "person"
+  },
+  {
+   "id": 919,
+   "name": "Rawson, Harry Holdsworth",
+   "type": "person"
+  },
+  {
+   "id": 920,
+   "name": "Alsdorf, James William",
+   "type": "person"
+  },
+  {
+   "id": 921,
+   "name": "Ann and George Blumenthal Fund",
+   "type": "institution"
+  },
+  {
+   "id": 922,
+   "name": "Alperton, Allen",
+   "type": "person"
+  },
+  {
+   "id": 923,
+   "name": "Whitehead, Jack",
+   "type": "person"
+  },
+  {
+   "id": 924,
+   "name": "Erhabor, Eguagie Edwin",
+   "type": "person"
+  },
+  {
+   "id": 925,
+   "name": "Lipkin, Morton & Rebecca",
+   "type": "person"
+  },
+  {
+   "id": 926,
+   "name": "St. Barbe Baker, Richard",
+   "type": "person"
+  },
+  {
+   "id": 927,
+   "name": "Mattel, Benno",
+   "type": "person"
+  },
+  {
+   "id": 928,
+   "name": "Abrams, Alvin",
+   "type": "person"
+  },
+  {
+   "id": 929,
+   "name": "Burrows, Norman",
+   "type": "person"
+  },
+  {
+   "id": 930,
+   "name": "Cutter, William D.",
+   "type": "person"
+  },
+  {
+   "id": 931,
+   "name": "Omoruyi",
+   "type": "person"
+  },
+  {
+   "id": 932,
+   "name": "Chief H. A.",
+   "type": "person"
+  },
+  {
+   "id": 933,
+   "name": "Ibrahim, Abdullaha",
+   "type": "person"
+  },
+  {
+   "id": 934,
+   "name": "Davis Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 936,
+   "name": "Davis, Charles B.",
+   "type": "person"
+  },
+  {
+   "id": 937,
+   "name": "Jacob S. Rogers Fund",
+   "type": "institution"
+  },
+  {
+   "id": 938,
+   "name": "Brandt, Damon",
+   "type": "person"
+  },
+  {
+   "id": 939,
+   "name": "Young, J.",
+   "type": "person"
+  },
+  {
+   "id": 940,
+   "name": "Lois, Rosemary & George",
+   "type": "person"
+  },
+  {
+   "id": 941,
+   "name": "Tregaskis, James & Mary Lee (born Bennett)",
+   "type": "person"
+  },
+  {
+   "id": 942,
+   "name": "Humann, Christian",
+   "type": "person"
+  },
+  {
+   "id": 943,
+   "name": "Mebel, Claire & Frederick",
+   "type": "person"
+  },
+  {
+   "id": 944,
+   "name": "Julius Carlebach Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 945,
+   "name": "Stolper, Robert L.",
+   "type": "person"
+  },
+  {
+   "id": 946,
+   "name": "Tillmann, G.",
+   "type": "person"
+  },
+  {
+   "id": 947,
+   "name": "Mrs. E.C. Gaze and R.H.H. Barneby, Esq.",
+   "type": "person"
+  },
+  {
+   "id": 948,
+   "name": "Knize, Frederick",
+   "type": "person"
+  },
+  {
+   "id": 949,
+   "name": "Clarke Stillman, E.",
+   "type": "person"
+  },
+  {
+   "id": 950,
+   "name": "Galerie Mazarine 52",
+   "type": "institution"
+  },
+  {
+   "id": 951,
+   "name": "Anthony Ralph Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 952,
+   "name": "Brandt, Alan",
+   "type": "person"
+  },
+  {
+   "id": 953,
+   "name": "Jones, Charles",
+   "type": "person"
+  },
+  {
+   "id": 954,
+   "name": "Charles Jones African Art",
+   "type": "institution"
+  },
+  {
+   "id": 956,
+   "name": "Eisenbeiss",
+   "type": "person"
+  },
+  {
+   "id": 957,
+   "name": "Lerner, Martin",
+   "type": "person"
+  },
+  {
+   "id": 958,
+   "name": "Rose, Paul",
+   "type": "person"
+  },
+  {
+   "id": 959,
+   "name": "Lehman, Robert Owen",
+   "type": "person"
+  },
+  {
+   "id": 960,
+   "name": "Graham-Steewart, Michael",
+   "type": "person"
+  },
+  {
+   "id": 961,
+   "name": "Muensterberger, Werner",
+   "type": "person"
+  },
+  {
+   "id": 962,
+   "name": "Sydney Burney Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 963,
+   "name": "Ingersoll, Robert Sturgis",
+   "type": "person"
+  },
+  {
+   "id": 964,
+   "name": "Anspach, Ernst",
+   "type": "person"
+  },
+  {
+   "id": 965,
+   "name": "Graham Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 966,
+   "name": "Harkness, Edward Stephen & Harkness Stillman, Mary",
+   "type": "person"
+  },
+  {
+   "id": 967,
+   "name": "Robert Carlen Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 968,
+   "name": "Ault, Lee",
+   "type": "person"
+  },
+  {
+   "id": 969,
+   "name": "Vecht, Aäron",
+   "type": "person"
+  },
+  {
+   "id": 970,
+   "name": "Carlen, Robert",
+   "type": "person"
+  },
+  {
+   "id": 971,
+   "name": "Aldrich Rockefeller, Abigail Greene 'Abby'",
+   "type": "person"
+  },
+  {
+   "id": 972,
+   "name": "Orswell, Lois Dailey",
+   "type": "person"
+  },
+  {
+   "id": 973,
+   "name": "Barnes, Albert Coombs",
+   "type": "person"
+  },
+  {
+   "id": 974,
+   "name": "Guillaume, Paul",
+   "type": "person"
+  },
+  {
+   "id": 975,
+   "name": "Feder, A. A.",
+   "type": "person"
+  },
+  {
+   "id": 976,
+   "name": "Süssenbach, Heinrich",
+   "type": "person"
+  },
+  {
+   "id": 977,
+   "name": "Gassmann, Franz",
+   "type": "person"
+  },
+  {
+   "id": 978,
+   "name": "Blech, J. F.",
+   "type": "person"
+  },
+  {
+   "id": 979,
+   "name": "Stahl, Franz",
+   "type": "person"
+  },
+  {
+   "id": 980,
+   "name": "Goltermann, Carl",
+   "type": "person"
+  },
+  {
+   "id": 981,
+   "name": "Langheld, Wilhelm",
+   "type": "person"
+  },
+  {
+   "id": 982,
+   "name": "Riedemann, Wilhelm Anton",
+   "type": "person"
+  },
+  {
+   "id": 983,
+   "name": "Wiggerts, Eduard",
+   "type": "person"
+  },
+  {
+   "id": 984,
+   "name": "Engelhardt, Albert",
+   "type": "person"
+  },
+  {
+   "id": 985,
+   "name": "Malitzke, Hugo",
+   "type": "person"
+  },
+  {
+   "id": 986,
+   "name": "Dreyer, M.",
+   "type": "person"
+  },
+  {
+   "id": 987,
+   "name": "Schultz, H.",
+   "type": "person"
+  },
+  {
+   "id": 989,
+   "name": "Dietzel, Max",
+   "type": "person"
+  },
+  {
+   "id": 991,
+   "name": "Glenk, Ludwig",
+   "type": "person"
+  },
+  {
+   "id": 992,
+   "name": "Heppner, M.",
+   "type": "person"
+  },
+  {
+   "id": 995,
+   "name": "Maschmann, Maria",
+   "type": "person"
+  },
+  {
+   "id": 997,
+   "name": "Macfie, John William Scott",
+   "type": "person"
+  },
+  {
+   "id": 998,
+   "name": "Hügel, Anatole Andreas Aloys von",
+   "type": "person"
+  },
+  {
+   "id": 999,
+   "name": "Armitage, Cecil Hamilton",
+   "type": "person"
+  },
+  {
+   "id": 1000,
+   "name": "Cockin, Maurice Stanley & Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 1001,
+   "name": "Barclay (born Cockin), Celia Alice Mary",
+   "type": "person"
+  },
+  {
+   "id": 1002,
+   "name": "Barclay, Gordon",
+   "type": "person"
+  },
+  {
+   "id": 1004,
+   "name": "Roe Curiosity Shop",
+   "type": "institution"
+  },
+  {
+   "id": 1005,
+   "name": "Laborde, William Melville",
+   "type": "person"
+  },
+  {
+   "id": 1006,
+   "name": "Smith, S. & Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 1007,
+   "name": "Jennings, John",
+   "type": "person"
+  },
+  {
+   "id": 1008,
+   "name": "Weeks, George Kearley",
+   "type": "person"
+  },
+  {
+   "id": 1009,
+   "name": "Morgan, Daniel",
+   "type": "person"
+  },
+  {
+   "id": 1010,
+   "name": "Joyce, L. E.",
+   "type": "person"
+  },
+  {
+   "id": 1011,
+   "name": "Foster, Mary Hichen",
+   "type": "person"
+  },
+  {
+   "id": 1012,
+   "name": "Howell, Paul Philip",
+   "type": "person"
+  },
+  {
+   "id": 1013,
+   "name": "Pennant, Thomas",
+   "type": "person"
+  },
+  {
+   "id": 1016,
+   "name": "Feilding, Rudolph Robert Basil Aloysius Augustine & Feilding (born Clifford), Cecilia Mary",
+   "type": "person"
+  },
+  {
+   "id": 1020,
+   "name": "Storrer, Emil",
+   "type": "person"
+  },
+  {
+   "id": 1022,
+   "name": "Vischer-Iselin, Wilhelm",
+   "type": "person"
+  },
+  {
+   "id": 1023,
+   "name": "Galerie Carrefour / Vérité",
+   "type": "institution"
+  },
+  {
+   "id": 1024,
+   "name": "Vérité, Pierre & Suzanne",
+   "type": "person"
+  },
+  {
+   "id": 1025,
+   "name": "Whitaker collection",
+   "type": "institution"
+  },
+  {
+   "id": 1026,
+   "name": "Zink-Niehus, Elisabeth",
+   "type": "person"
+  },
+  {
+   "id": 1028,
+   "name": "Passavant-Allemandi, Emanuel",
+   "type": "person"
+  },
+  {
+   "id": 1030,
+   "name": "Galerie La Reine Margot",
+   "type": "institution"
+  },
+  {
+   "id": 1031,
+   "name": "Ascher, Ernst",
+   "type": "person"
+  },
+  {
+   "id": 1032,
+   "name": "Éluard, Paul",
+   "type": "person"
+  },
+  {
+   "id": 1033,
+   "name": "Paulig, Frank",
+   "type": "person"
+  },
+  {
+   "id": 1034,
+   "name": "Ohly, William F. C.",
+   "type": "person"
+  },
+  {
+   "id": 1035,
+   "name": "Galerie Jacques Germain",
+   "type": "institution"
+  },
+  {
+   "id": 1036,
+   "name": "Heinrich, Ernst",
+   "type": "person"
+  },
+  {
+   "id": 1037,
+   "name": "Rohrer, Ernst F.",
+   "type": "person"
+  },
+  {
+   "id": 1038,
+   "name": "Ernst F. Rohrer community of heirs",
+   "type": "institution"
+  },
+  {
+   "id": 1041,
+   "name": "Freiwilliger Museumsverein Basel",
+   "type": "institution"
+  },
+  {
+   "id": 1042,
+   "name": "Podgorska, Sophie",
+   "type": "person"
+  },
+  {
+   "id": 1043,
+   "name": "Rütimeyer, Leopold",
+   "type": "person"
+  },
+  {
+   "id": 1044,
+   "name": "Rolle, Franz Hermann",
+   "type": "person"
+  },
+  {
+   "id": 1045,
+   "name": "Coray, Hans",
+   "type": "person"
+  },
+  {
+   "id": 1046,
+   "name": "Kopp, Hans W.",
+   "type": "person"
+  },
+  {
+   "id": 1047,
+   "name": "Lindenmann, O.",
+   "type": "person"
+  },
+  {
+   "id": 1050,
+   "name": "Sarasin-Sauvain, Elisabeth",
+   "type": "person"
+  },
+  {
+   "id": 1051,
+   "name": "Sydow, Eckart von",
+   "type": "person"
+  },
+  {
+   "id": 1052,
+   "name": "Rothschild, Maurice Edmond Karl de",
+   "type": "person"
+  },
+  {
+   "id": 1054,
+   "name": "Geigy-Schlumberger, Johann Rudolf",
+   "type": "person"
+  },
+  {
+   "id": 1055,
+   "name": "Sarasin-Iselin, Alfred",
+   "type": "person"
+  },
+  {
+   "id": 1056,
+   "name": "Finsler, Georg",
+   "type": "person"
+  },
+  {
+   "id": 1057,
+   "name": "Staehelin-Gruner, Alfred",
+   "type": "person"
+  },
+  {
+   "id": 1059,
+   "name": "Davey, William John",
+   "type": "person"
+  },
+  {
+   "id": 1060,
+   "name": "Davey, Florence E.",
+   "type": "person"
+  },
+  {
+   "id": 1061,
+   "name": "Winizki, Ernst",
+   "type": "person"
+  },
+  {
+   "id": 1062,
+   "name": "Sarasin, Paul",
+   "type": "person"
+  },
+  {
+   "id": 1064,
+   "name": "Vischer-Wadler, Anne-Marie & Ernst",
+   "type": "person"
+  },
+  {
+   "id": 1068,
+   "name": "Arthur and Margaret Glasgow Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1069,
+   "name": "Faletti, Barbara & Richard J.",
+   "type": "person"
+  },
+  {
+   "id": 1070,
+   "name": "Smiley, Cecilia & Irwin",
+   "type": "person"
+  },
+  {
+   "id": 1071,
+   "name": "Kennedy, John Fitzgerald",
+   "type": "person"
+  },
+  {
+   "id": 1072,
+   "name": "Balewa, Abubakar Tafawa",
+   "type": "person"
+  },
+  {
+   "id": 1074,
+   "name": "Tarn, Pauline Mary",
+   "type": "person"
+  },
+  {
+   "id": 1076,
+   "name": "Beldam, Joseph",
+   "type": "person"
+  },
+  {
+   "id": 1077,
+   "name": "Collins, Francis & Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 1078,
+   "name": "Elisofon, Eliot",
+   "type": "person"
+  },
+  {
+   "id": 1079,
+   "name": "Rome, Harold",
+   "type": "person"
+  },
+  {
+   "id": 1080,
+   "name": "Hirshhorn (born Zatorsky), Olga",
+   "type": "person"
+  },
+  {
+   "id": 1081,
+   "name": "Kaplan, Alice Manheim",
+   "type": "person"
+  },
+  {
+   "id": 1082,
+   "name": "Rhodes, Glen",
+   "type": "person"
+  },
+  {
+   "id": 1083,
+   "name": "Kaplan, Flora Edouwaye S.",
+   "type": "person"
+  },
+  {
+   "id": 1084,
+   "name": "Edward Drummond Libbey Endowment Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1085,
+   "name": "Lonsdale, Stella",
+   "type": "person"
+  },
+  {
+   "id": 1086,
+   "name": "Rassiga, Everett",
+   "type": "person"
+  },
+  {
+   "id": 1087,
+   "name": "de la Burde Collection",
+   "type": "institution"
+  },
+  {
+   "id": 1088,
+   "name": "Entwistle Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 1089,
+   "name": "Harding, George R.",
+   "type": "person"
+  },
+  {
+   "id": 1090,
+   "name": "Wolff, Maurice",
+   "type": "person"
+  },
+  {
+   "id": 1091,
+   "name": "Wilhelmina of the Netherlands",
+   "type": "person"
+  },
+  {
+   "id": 1092,
+   "name": "Waldeck-Pyrmont, Adelheid Emma Wilhelmina Theresia van",
+   "type": "person"
+  },
+  {
+   "id": 1093,
+   "name": "Tillmann, Wolf",
+   "type": "person"
+  },
+  {
+   "id": 1094,
+   "name": "Geyskens, Willem E.",
+   "type": "person"
+  },
+  {
+   "id": 1098,
+   "name": "National Museum of Antiquities of Scotland, Edinburgh",
+   "type": "institution"
+  },
+  {
+   "id": 1099,
+   "name": "Handyside, L. C. & Patrick",
+   "type": "person"
+  },
+  {
+   "id": 1100,
+   "name": "Campbell, William",
+   "type": "person"
+  },
+  {
+   "id": 1101,
+   "name": "Shanks, T. H.",
+   "type": "person"
+  },
+  {
+   "id": 1102,
+   "name": "Erhonsele, Goddy",
+   "type": "person"
+  },
+  {
+   "id": 1103,
+   "name": "Omoregie, Ugbo",
+   "type": "person"
+  },
+  {
+   "id": 1104,
+   "name": "Agha, Anthony",
+   "type": "person"
+  },
+  {
+   "id": 1106,
+   "name": "Aigbe, Charles",
+   "type": "person"
+  },
+  {
+   "id": 1107,
+   "name": "Enomwen, J.",
+   "type": "person"
+  },
+  {
+   "id": 1108,
+   "name": "Usiere, Enadeghe",
+   "type": "person"
+  },
+  {
+   "id": 1109,
+   "name": "Okunoghae of Igo",
+   "type": "person"
+  },
+  {
+   "id": 1110,
+   "name": "Essang, E. E.",
+   "type": "person"
+  },
+  {
+   "id": 1111,
+   "name": "Osula, A. O.",
+   "type": "person"
+  },
+  {
+   "id": 1112,
+   "name": "Goodwin",
+   "type": "person"
+  },
+  {
+   "id": 1113,
+   "name": "Edohen",
+   "type": "person"
+  },
+  {
+   "id": 1114,
+   "name": "Inneh",
+   "type": "person"
+  },
+  {
+   "id": 1115,
+   "name": "Ogbomo, S.",
+   "type": "person"
+  },
+  {
+   "id": 1116,
+   "name": "Aiyobazogie",
+   "type": "person"
+  },
+  {
+   "id": 1117,
+   "name": "Ezomo, Solomon",
+   "type": "person"
+  },
+  {
+   "id": 1119,
+   "name": "Lafia, Sabu",
+   "type": "person"
+  },
+  {
+   "id": 1120,
+   "name": "Oke Eliaho",
+   "type": "person"
+  },
+  {
+   "id": 1121,
+   "name": "Awevia, Wilson",
+   "type": "person"
+  },
+  {
+   "id": 1122,
+   "name": "Ogbomo, R. O.",
+   "type": "person"
+  },
+  {
+   "id": 1123,
+   "name": "Obayogbona, Osagiede",
+   "type": "person"
+  },
+  {
+   "id": 1125,
+   "name": "Kiam, Victor K.",
+   "type": "person"
+  },
+  {
+   "id": 1126,
+   "name": "Bonhams",
+   "type": "institution"
+  },
+  {
+   "id": 1127,
+   "name": "Colomb, Herman & Margaret",
+   "type": "person"
+  },
+  {
+   "id": 1129,
+   "name": "Davis, Kent",
+   "type": "person"
+  },
+  {
+   "id": 1130,
+   "name": "Stafford, Frederick M. & Elizabeth",
+   "type": "person"
+  },
+  {
+   "id": 1131,
+   "name": "Valentiner, W. R.",
+   "type": "person"
+  },
+  {
+   "id": 1132,
+   "name": "Emery, Herbert Clarke",
+   "type": "person"
+  },
+  {
+   "id": 1133,
+   "name": "Jackson, Patrick T.",
+   "type": "person"
+  },
+  {
+   "id": 1134,
+   "name": "Jackson, Ernest T.",
+   "type": "person"
+  },
+  {
+   "id": 1135,
+   "name": "Lothrop, Samuel Kirkland",
+   "type": "person"
+  },
+  {
+   "id": 1136,
+   "name": "Tozzer, Margaret Castle",
+   "type": "person"
+  },
+  {
+   "id": 1137,
+   "name": "Gray, Harold St. George",
+   "type": "person"
+  },
+  {
+   "id": 1138,
+   "name": "Cranmore Ethnographical Museum",
+   "type": "institution"
+  },
+  {
+   "id": 1139,
+   "name": "Somerhough, Anthony George Carl",
+   "type": "person"
+  },
+  {
+   "id": 1140,
+   "name": "Goodman, F. L.",
+   "type": "person"
+  },
+  {
+   "id": 1141,
+   "name": "Joyce, Thomas Athol",
+   "type": "person"
+  },
+  {
+   "id": 1142,
+   "name": "Walker, Herbert Sutherland",
+   "type": "person"
+  },
+  {
+   "id": 1144,
+   "name": "Denton, George Chardin",
+   "type": "person"
+  },
+  {
+   "id": 1145,
+   "name": "Landon, Frederick William Bainbridge",
+   "type": "person"
+  },
+  {
+   "id": 1146,
+   "name": "Eden, H. K.",
+   "type": "person"
+  },
+  {
+   "id": 1147,
+   "name": "Mappin and Webb",
+   "type": "institution"
+  },
+  {
+   "id": 1148,
+   "name": "Martin, G. F.",
+   "type": "person"
+  },
+  {
+   "id": 1149,
+   "name": "Taphouse, Thomas William",
+   "type": "person"
+  },
+  {
+   "id": 1150,
+   "name": "Embury, Thomas Francis",
+   "type": "person"
+  },
+  {
+   "id": 1151,
+   "name": "Meyer, Else",
+   "type": "person"
+  },
+  {
+   "id": 1152,
+   "name": "Murray, Kenneth Crosthwaite",
+   "type": "person"
+  },
+  {
+   "id": 1153,
+   "name": "Johnstone, Robert",
+   "type": "person"
+  },
+  {
+   "id": 1154,
+   "name": "Smith, Philip Creasey",
+   "type": "person"
+  },
+  {
+   "id": 1155,
+   "name": "Heneker, William Charles Giffard",
+   "type": "person"
+  },
+  {
+   "id": 1156,
+   "name": "Smith, Charles M.",
+   "type": "person"
+  },
+  {
+   "id": 1157,
+   "name": "Alfred Holt and Company",
+   "type": "institution"
+  },
+  {
+   "id": 1158,
+   "name": "Maddocks, Harry",
+   "type": "person"
+  },
+  {
+   "id": 1159,
+   "name": "Jennings, Kathleen Nancy",
+   "type": "person"
+  },
+  {
+   "id": 1160,
+   "name": "Ball, G. L.",
+   "type": "person"
+  },
+  {
+   "id": 1161,
+   "name": "Ball, M. H.",
+   "type": "person"
+  },
+  {
+   "id": 1163,
+   "name": "Nash, Ralph",
+   "type": "person"
+  },
+  {
+   "id": 1164,
+   "name": "Croft-Murray, Edward",
+   "type": "person"
+  },
+  {
+   "id": 1165,
+   "name": "Johnes, Raymond",
+   "type": "person"
+  },
+  {
+   "id": 1166,
+   "name": "Ingrams, William Harold",
+   "type": "person"
+  },
+  {
+   "id": 1167,
+   "name": "Ingrams, Leila",
+   "type": "person"
+  },
+  {
+   "id": 1168,
+   "name": "Secretary of State for Foreign Affairs",
+   "type": "institution"
+  },
+  {
+   "id": 1169,
+   "name": "Hobley, Charles William",
+   "type": "person"
+  },
+  {
+   "id": 1170,
+   "name": "Hobley, Frances",
+   "type": "person"
+  },
+  {
+   "id": 1171,
+   "name": "Hobley, C. E.",
+   "type": "person"
+  },
+  {
+   "id": 1172,
+   "name": "Johnston, Henry Hamilton 'Harry'",
+   "type": "person"
+  },
+  {
+   "id": 1173,
+   "name": "Bouverie, B. P.",
+   "type": "person"
+  },
+  {
+   "id": 1174,
+   "name": "Vyvyan, Arthur Vyell",
+   "type": "person"
+  },
+  {
+   "id": 1175,
+   "name": "Head, Alban",
+   "type": "person"
+  },
+  {
+   "id": 1176,
+   "name": "Feurer Plass, Margaret",
+   "type": "person"
+  },
+  {
+   "id": 1177,
+   "name": "Ingram, A.",
+   "type": "person"
+  },
+  {
+   "id": 1178,
+   "name": "Tarbutt, Percy",
+   "type": "person"
+  },
+  {
+   "id": 1179,
+   "name": "Brice-Smith, H. M.",
+   "type": "person"
+  },
+  {
+   "id": 1180,
+   "name": "MacDonald, Ethel",
+   "type": "person"
+  },
+  {
+   "id": 1181,
+   "name": "Roberts, W. H.",
+   "type": "person"
+  },
+  {
+   "id": 1182,
+   "name": "Victoria and Albert Museum, London",
+   "type": "institution"
+  },
+  {
+   "id": 1184,
+   "name": "Friends of the British Museum",
+   "type": "institution"
+  },
+  {
+   "id": 1185,
+   "name": "Herbert-Spottiswoode, Evelyn",
+   "type": "person"
+  },
+  {
+   "id": 1186,
+   "name": "Jones, Alfred Lewis",
+   "type": "person"
+  },
+  {
+   "id": 1187,
+   "name": "Pinnock",
+   "type": "person"
+  },
+  {
+   "id": 1188,
+   "name": "Kingsford, H. S.",
+   "type": "person"
+  },
+  {
+   "id": 1189,
+   "name": "Young, William",
+   "type": "person"
+  },
+  {
+   "id": 1190,
+   "name": "Berry, H. A. N.",
+   "type": "person"
+  },
+  {
+   "id": 1191,
+   "name": "Robinson, Leonard Frank",
+   "type": "person"
+  },
+  {
+   "id": 1192,
+   "name": "Robinson, John Francis",
+   "type": "person"
+  },
+  {
+   "id": 1193,
+   "name": "Child, Herbert Alexander",
+   "type": "person"
+  },
+  {
+   "id": 1194,
+   "name": "Brachfeld, Norman",
+   "type": "person"
+  },
+  {
+   "id": 1195,
+   "name": "Brill, William W.",
+   "type": "person"
+  },
+  {
+   "id": 1196,
+   "name": "Cohen, Stan & Jamie",
+   "type": "person"
+  },
+  {
+   "id": 1200,
+   "name": "Hollander, Sharon & Stuart",
+   "type": "person"
+  },
+  {
+   "id": 1201,
+   "name": "Alexander, Thomas 'Tom'",
+   "type": "person"
+  },
+  {
+   "id": 1202,
+   "name": "Merton D. Simpson Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 1203,
+   "name": "Janson, Oliver Erichson",
+   "type": "person"
+  },
+  {
+   "id": 1205,
+   "name": "Smith, F.",
+   "type": "person"
+  },
+  {
+   "id": 1206,
+   "name": "Bouman, T. J.",
+   "type": "person"
+  },
+  {
+   "id": 1207,
+   "name": "Clausmeyer, Klaus",
+   "type": "person"
+  },
+  {
+   "id": 1208,
+   "name": "Langerbein, Hugo",
+   "type": "person"
+  },
+  {
+   "id": 1209,
+   "name": "Currelly, Charles Trick",
+   "type": "person"
+  },
+  {
+   "id": 1210,
+   "name": "Braine, John & Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 1211,
+   "name": "Mansfield, Henry Bevan",
+   "type": "person"
+  },
+  {
+   "id": 1213,
+   "name": "Delacorte Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 1214,
+   "name": "Steinbach, Werner",
+   "type": "person"
+  },
+  {
+   "id": 1215,
+   "name": "Esche, Mr. & Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 1216,
+   "name": "Spiess, Gustav",
+   "type": "person"
+  },
+  {
+   "id": 1217,
+   "name": "Murat, Stefania de",
+   "type": "person"
+  },
+  {
+   "id": 1218,
+   "name": "Mischlich, Adam",
+   "type": "person"
+  },
+  {
+   "id": 1219,
+   "name": "Ernst von Siemens Kunststiftung",
+   "type": "institution"
+  },
+  {
+   "id": 1220,
+   "name": "Historisches Museum, Dresden",
+   "type": "institution"
+  },
+  {
+   "id": 1221,
+   "name": "Aitken (born Warmack), Annie Laurie & Aitken, Russell Barnett",
+   "type": "person"
+  },
+  {
+   "id": 1222,
+   "name": "Jacques Seligmann & Company",
+   "type": "institution"
+  },
+  {
+   "id": 1223,
+   "name": "Denes, Balint B.",
+   "type": "person"
+  },
+  {
+   "id": 1224,
+   "name": "Erediauwua, Theresa",
+   "type": "person"
+  },
+  {
+   "id": 1225,
+   "name": "William Wright Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 1226,
+   "name": "Samuel P. Avery Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1227,
+   "name": "Vamos, Paul",
+   "type": "person"
+  },
+  {
+   "id": 1228,
+   "name": "Segy, Ladislas",
+   "type": "person"
+  },
+  {
+   "id": 1229,
+   "name": "Hokin, Edwin E. & Grace E.",
+   "type": "person"
+  },
+  {
+   "id": 1230,
+   "name": "Adọlọ",
+   "type": "person"
+  },
+  {
+   "id": 1232,
+   "name": "Frishmuth, Sarah Sagehorn",
+   "type": "person"
+  },
+  {
+   "id": 1233,
+   "name": "Portman, Robert",
+   "type": "person"
+  },
+  {
+   "id": 1234,
+   "name": "Allen, Georges",
+   "type": "person"
+  },
+  {
+   "id": 1235,
+   "name": "Haas, Georg",
+   "type": "person"
+  },
+  {
+   "id": 1236,
+   "name": "Knize, Peter",
+   "type": "person"
+  },
+  {
+   "id": 1237,
+   "name": "Miller",
+   "type": "person"
+  },
+  {
+   "id": 1238,
+   "name": "Harrison, James",
+   "type": "person"
+  },
+  {
+   "id": 1239,
+   "name": "Cross, Reginald R.",
+   "type": "person"
+  },
+  {
+   "id": 1240,
+   "name": "Campbell, Douglas",
+   "type": "person"
+  },
+  {
+   "id": 1242,
+   "name": "Frederickson",
+   "type": "person"
+  },
+  {
+   "id": 1244,
+   "name": "Cook, Arthur Bernard",
+   "type": "person"
+  },
+  {
+   "id": 1245,
+   "name": "Holland, John Henry",
+   "type": "person"
+  },
+  {
+   "id": 1246,
+   "name": "Johnson, W. E.",
+   "type": "person"
+  },
+  {
+   "id": 1248,
+   "name": "Cross, William",
+   "type": "person"
+  },
+  {
+   "id": 1249,
+   "name": "Turnbull, Harold G.",
+   "type": "person"
+  },
+  {
+   "id": 1250,
+   "name": "Thomas, E. D.",
+   "type": "person"
+  },
+  {
+   "id": 1251,
+   "name": "Hammond",
+   "type": "person"
+  },
+  {
+   "id": 1252,
+   "name": "Hughes, Erika & Leland Hughes, Thomas",
+   "type": "person"
+  },
+  {
+   "id": 1253,
+   "name": "Benenson, Charles B.",
+   "type": "person"
+  },
+  {
+   "id": 1254,
+   "name": "Knight, G. A. Frank",
+   "type": "person"
+  },
+  {
+   "id": 1260,
+   "name": "Henderson, Alex",
+   "type": "person"
+  },
+  {
+   "id": 1261,
+   "name": "Stewart, F.",
+   "type": "person"
+  },
+  {
+   "id": 1262,
+   "name": "Imperial Institute",
+   "type": "institution"
+  },
+  {
+   "id": 1263,
+   "name": "Furse, William Thomas",
+   "type": "person"
+  },
+  {
+   "id": 1264,
+   "name": "Russell Davies, R. H.",
+   "type": "person"
+  },
+  {
+   "id": 1265,
+   "name": "Edmonds, F. W.",
+   "type": "person"
+  },
+  {
+   "id": 1266,
+   "name": "North, Frederick H.",
+   "type": "person"
+  },
+  {
+   "id": 1267,
+   "name": "Trew, J.",
+   "type": "person"
+  },
+  {
+   "id": 1268,
+   "name": "Crawford (born Allman), Florence K. E.",
+   "type": "person"
+  },
+  {
+   "id": 1269,
+   "name": "Braunholtz, Hermann Justus",
+   "type": "person"
+  },
+  {
+   "id": 1270,
+   "name": "Wilson, Donald H. F.",
+   "type": "person"
+  },
+  {
+   "id": 1271,
+   "name": "Ohly, Kate",
+   "type": "person"
+  },
+  {
+   "id": 1272,
+   "name": "Prentis, E.",
+   "type": "person"
+  },
+  {
+   "id": 1273,
+   "name": "Sjögren, Tor Åke Johan",
+   "type": "person"
+  },
+  {
+   "id": 1274,
+   "name": "Bushnell, A. J. de H.",
+   "type": "person"
+  },
+  {
+   "id": 1275,
+   "name": "Wild, Robert Powley",
+   "type": "person"
+  },
+  {
+   "id": 1276,
+   "name": "Howe, John Scott",
+   "type": "person"
+  },
+  {
+   "id": 1278,
+   "name": "Menendez, Manuel Raymond",
+   "type": "person"
+  },
+  {
+   "id": 1279,
+   "name": "Franks, Augustus Wollaston",
+   "type": "person"
+  },
+  {
+   "id": 1280,
+   "name": "Colonial Government of Nigeria",
+   "type": "institution"
+  },
+  {
+   "id": 1281,
+   "name": "Jeans, G.",
+   "type": "person"
+  },
+  {
+   "id": 1282,
+   "name": "Epstein (born Garman), Kathleen Esther",
+   "type": "person"
+  },
+  {
+   "id": 1283,
+   "name": "Harper, G.",
+   "type": "person"
+  },
+  {
+   "id": 1284,
+   "name": "Harper, Helen C.",
+   "type": "person"
+  },
+  {
+   "id": 1285,
+   "name": "Cowan, Walter Henry",
+   "type": "person"
+  },
+  {
+   "id": 1286,
+   "name": "Goolden, A. C.",
+   "type": "person"
+  },
+  {
+   "id": 1287,
+   "name": "Clough, Norman",
+   "type": "person"
+  },
+  {
+   "id": 1288,
+   "name": "Adams, Edward Coker",
+   "type": "person"
+  },
+  {
+   "id": 1291,
+   "name": "Kimmis, H.",
+   "type": "person"
+  },
+  {
+   "id": 1292,
+   "name": "Blackmore Museum, Salisbury",
+   "type": "institution"
+  },
+  {
+   "id": 1294,
+   "name": "Joyce, C. H.",
+   "type": "person"
+  },
+  {
+   "id": 1295,
+   "name": "Coles, A. G.",
+   "type": "person"
+  },
+  {
+   "id": 1296,
+   "name": "Cotes-Preedy, K.",
+   "type": "person"
+  },
+  {
+   "id": 1297,
+   "name": "Duperrier, Rene",
+   "type": "person"
+  },
+  {
+   "id": 1298,
+   "name": "Beer, Percy",
+   "type": "person"
+  },
+  {
+   "id": 1300,
+   "name": "Klejman, John J.",
+   "type": "person"
+  },
+  {
+   "id": 1301,
+   "name": "White, R.",
+   "type": "person"
+  },
+  {
+   "id": 1302,
+   "name": "Rothschild, Lionel Walter",
+   "type": "person"
+  },
+  {
+   "id": 1303,
+   "name": "Hales, A.",
+   "type": "person"
+  },
+  {
+   "id": 1304,
+   "name": "Brice-Smith, M.",
+   "type": "person"
+  },
+  {
+   "id": 1305,
+   "name": "Hood, T.",
+   "type": "person"
+  },
+  {
+   "id": 1306,
+   "name": "Kirk, John",
+   "type": "person"
+  },
+  {
+   "id": 1307,
+   "name": "Edge-Partington, James",
+   "type": "person"
+  },
+  {
+   "id": 1309,
+   "name": "Whitaker, V.",
+   "type": "person"
+  },
+  {
+   "id": 1310,
+   "name": "Gartside-Spaight, Louisa Dorina",
+   "type": "person"
+  },
+  {
+   "id": 1311,
+   "name": "Gabbett, W. L.",
+   "type": "person"
+  },
+  {
+   "id": 1312,
+   "name": "Hughes, J.",
+   "type": "person"
+  },
+  {
+   "id": 1315,
+   "name": "Sneath, Thomas W. S.",
+   "type": "person"
+  },
+  {
+   "id": 1316,
+   "name": "Dwight, Katherine",
+   "type": "person"
+  },
+  {
+   "id": 1317,
+   "name": "Entwistle, P.",
+   "type": "person"
+  },
+  {
+   "id": 1318,
+   "name": "Searle, A. M.",
+   "type": "person"
+  },
+  {
+   "id": 1320,
+   "name": "Bragge, William",
+   "type": "person"
+  },
+  {
+   "id": 1321,
+   "name": "Wareham, William",
+   "type": "person"
+  },
+  {
+   "id": 1322,
+   "name": "De Hoogh Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 1323,
+   "name": "Pratt, Frederic Bayley",
+   "type": "person"
+  },
+  {
+   "id": 1324,
+   "name": "Babbott, Frank Lusk",
+   "type": "person"
+  },
+  {
+   "id": 1325,
+   "name": "Culin, Stewart",
+   "type": "person"
+  },
+  {
+   "id": 1326,
+   "name": "Picket, Elliot",
+   "type": "person"
+  },
+  {
+   "id": 1327,
+   "name": "Friede, John & Marcia",
+   "type": "person"
+  },
+  {
+   "id": 1328,
+   "name": "Robert B. Woodward Memorial Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1329,
+   "name": "Saulnier, George E.",
+   "type": "person"
+  },
+  {
+   "id": 1330,
+   "name": "Hearst, William Randolph",
+   "type": "person"
+  },
+  {
+   "id": 1331,
+   "name": "Poncelet, François",
+   "type": "person"
+  },
+  {
+   "id": 1334,
+   "name": "Bathe, Maximilian John de",
+   "type": "person"
+  },
+  {
+   "id": 1335,
+   "name": "Riese, Beatrice",
+   "type": "person"
+  },
+  {
+   "id": 1337,
+   "name": "Martin, Alastair Bradley & Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 1338,
+   "name": "Robbins, Dorothy",
+   "type": "person"
+  },
+  {
+   "id": 1339,
+   "name": "Hamilton, Bruce Meade",
+   "type": "person"
+  },
+  {
+   "id": 1340,
+   "name": "National Lottery Heritage Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1341,
+   "name": "Sloane, Phyllis Lester",
+   "type": "person"
+  },
+  {
+   "id": 1342,
+   "name": "James Albert Ford Memorial Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1343,
+   "name": "Bernheimer, Lehmann",
+   "type": "person"
+  },
+  {
+   "id": 1345,
+   "name": "John L. Severance Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1346,
+   "name": "Dudley P. Allen Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1347,
+   "name": "Bragaline, Edward A.",
+   "type": "person"
+  },
+  {
+   "id": 1348,
+   "name": "Mitchell-Innes & Nash",
+   "type": "institution"
+  },
+  {
+   "id": 1349,
+   "name": "Sainsbury, Lisa & Robert",
+   "type": "person"
+  },
+  {
+   "id": 1350,
+   "name": "Pears, Edmund Radcliffe",
+   "type": "person"
+  },
+  {
+   "id": 1351,
+   "name": "Webster, K. A.",
+   "type": "person"
+  },
+  {
+   "id": 1352,
+   "name": "Johnston, J. W.",
+   "type": "person"
+  },
+  {
+   "id": 1353,
+   "name": "Dale",
+   "type": "person"
+  },
+  {
+   "id": 1354,
+   "name": "Lyon, Charles",
+   "type": "person"
+  },
+  {
+   "id": 1355,
+   "name": "Lyon, Henry",
+   "type": "person"
+  },
+  {
+   "id": 1356,
+   "name": "Lyon, Florence",
+   "type": "person"
+  },
+  {
+   "id": 1357,
+   "name": "Victoria",
+   "type": "person"
+  },
+  {
+   "id": 1358,
+   "name": "Gowon, Yakubu",
+   "type": "person"
+  },
+  {
+   "id": 1359,
+   "name": "Elizabeth II",
+   "type": "person"
+  },
+  {
+   "id": 1360,
+   "name": "Hirshhorn Museum and Sculpture Garden, Washington, D.C",
+   "type": "institution"
+  },
+  {
+   "id": 1361,
+   "name": "Wurtzburger, Alan",
+   "type": "person"
+  },
+  {
+   "id": 1362,
+   "name": "Bascom, William Russell",
+   "type": "person"
+  },
+  {
+   "id": 1363,
+   "name": "Cowan, Alexander A.",
+   "type": "person"
+  },
+  {
+   "id": 1364,
+   "name": "Guest, Winston F. C. & Mrs.",
+   "type": "person"
+  },
+  {
+   "id": 1365,
+   "name": "Otter, G. W.",
+   "type": "person"
+  },
+  {
+   "id": 1366,
+   "name": "Loder, E.",
+   "type": "person"
+  },
+  {
+   "id": 1367,
+   "name": "Hill, Bridget Copinger",
+   "type": "person"
+  },
+  {
+   "id": 1368,
+   "name": "Partridge, Charles Stanley",
+   "type": "person"
+  },
+  {
+   "id": 1369,
+   "name": "Bardwell, R. F.",
+   "type": "person"
+  },
+  {
+   "id": 1371,
+   "name": "L. Pagenstecher & Co.",
+   "type": "institution"
+  },
+  {
+   "id": 1372,
+   "name": "Lembcke, C.",
+   "type": "person"
+  },
+  {
+   "id": 1374,
+   "name": "Oscar Kaiser & Co.",
+   "type": "institution"
+  },
+  {
+   "id": 1375,
+   "name": "Knywel, Theodor",
+   "type": "person"
+  },
+  {
+   "id": 1376,
+   "name": "E. Wiggerts & Co.",
+   "type": "institution"
+  },
+  {
+   "id": 1377,
+   "name": "Müller-Deicke, A.",
+   "type": "person"
+  },
+  {
+   "id": 1378,
+   "name": "Karl, Mr.",
+   "type": "person"
+  },
+  {
+   "id": 1379,
+   "name": "Schaumburg, Max",
+   "type": "person"
+  },
+  {
+   "id": 1381,
+   "name": "Stahl, Fritz",
+   "type": "person"
+  },
+  {
+   "id": 1382,
+   "name": "Békésy, Georg von",
+   "type": "person"
+  },
+  {
+   "id": 1383,
+   "name": "Nobel Foundation",
+   "type": "institution"
+  },
+  {
+   "id": 1385,
+   "name": "Viktoria Lindströms Antikhandel",
+   "type": "institution"
+  },
+  {
+   "id": 1386,
+   "name": "Lindströms, Viktoria",
+   "type": "person"
+  },
+  {
+   "id": 1387,
+   "name": "Dieck, Wilhelm",
+   "type": "person"
+  },
+  {
+   "id": 1388,
+   "name": "Cronvall, Gunnel & Ploman, Fredrick",
+   "type": "person"
+  },
+  {
+   "id": 1389,
+   "name": "C. H. Lundgren Antikhandel",
+   "type": "institution"
+  },
+  {
+   "id": 1390,
+   "name": "Lundgren, Carl Helge",
+   "type": "person"
+  },
+  {
+   "id": 1391,
+   "name": "Morris, Donald",
+   "type": "person"
+  },
+  {
+   "id": 1392,
+   "name": "Keinde, Oumar",
+   "type": "person"
+  },
+  {
+   "id": 1394,
+   "name": "Komor Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 1395,
+   "name": "Galerie Louis Carré",
+   "type": "institution"
+  },
+  {
+   "id": 1396,
+   "name": "John Wise Ltd. Galleries",
+   "type": "institution"
+  },
+  {
+   "id": 1397,
+   "name": "Galerie Lemaire",
+   "type": "institution"
+  },
+  {
+   "id": 1398,
+   "name": "Galerie Monbrison",
+   "type": "institution"
+  },
+  {
+   "id": 1399,
+   "name": "British Colonial Military Campaign on Benin, February 1897",
+   "type": "unknown"
+  },
+  {
+   "id": 1402,
+   "name": "Barbier-Mueller, Jean Paul",
+   "type": "person"
+  },
+  {
+   "id": 1407,
+   "name": "Eilenberg, Samuel",
+   "type": "person"
+  },
+  {
+   "id": 1409,
+   "name": "Bandeira, Victor",
+   "type": "person"
+  },
+  {
+   "id": 1410,
+   "name": "Cranbrook Academy of Art",
+   "type": "institution"
+  },
+  {
+   "id": 1411,
+   "name": "Ford, Josephine Clay 'Dody'",
+   "type": "person"
+  },
+  {
+   "id": 1412,
+   "name": "Gurlitt, Friedrich 'Fritz'",
+   "type": "person"
+  },
+  {
+   "id": 1413,
+   "name": "Maizel, Solomon",
+   "type": "person"
+  },
+  {
+   "id": 1414,
+   "name": "Gerdau, Allan",
+   "type": "person"
+  },
+  {
+   "id": 1415,
+   "name": "Hope, Henry Radford & Sarahanne 'Sally'",
+   "type": "person"
+  },
+  {
+   "id": 1418,
+   "name": "Moore, William",
+   "type": "person"
+  },
+  {
+   "id": 1419,
+   "name": "Burns, Sheelagh",
+   "type": "person"
+  },
+  {
+   "id": 1432,
+   "name": "Pleven, René",
+   "type": "person"
+  },
+  {
+   "id": 1434,
+   "name": "Schindler, Franyo & Gustave",
+   "type": "person"
+  },
+  {
+   "id": 1435,
+   "name": "Teel, Bertha & William",
+   "type": "person"
+  },
+  {
+   "id": 1436,
+   "name": "Searle, H. L.",
+   "type": "person"
+  },
+  {
+   "id": 1440,
+   "name": "Sainsbury, T.",
+   "type": "person"
+  },
+  {
+   "id": 1441,
+   "name": "Nesbit's Sale Rooms",
+   "type": "institution"
+  },
+  {
+   "id": 1487,
+   "name": "Gimpel Fils",
+   "type": "institution"
+  },
+  {
+   "id": 1498,
+   "name": "Umlauff, Heinrich",
+   "type": "person"
+  },
+  {
+   "id": 1499,
+   "name": "Grey, Charles George & Lady",
+   "type": "person"
+  },
+  {
+   "id": 1501,
+   "name": "Sutcliffe, J.",
+   "type": "person"
+  },
+  {
+   "id": 1503,
+   "name": "Willett, Frank",
+   "type": "person"
+  },
+  {
+   "id": 1504,
+   "name": "Dubiner, Samuel",
+   "type": "person"
+  },
+  {
+   "id": 1505,
+   "name": "Richman, Fred & Rita",
+   "type": "person"
+  },
+  {
+   "id": 1506,
+   "name": "Noah and Sadie K. Wachtel Foundation Inc.",
+   "type": "institution"
+  },
+  {
+   "id": 1507,
+   "name": "Enahin",
+   "type": "person"
+  },
+  {
+   "id": 1508,
+   "name": "Rosen, Eric Carl Gustaf Bloomfield von",
+   "type": "person"
+  },
+  {
+   "id": 1509,
+   "name": "Nordenskiöld, Erland",
+   "type": "person"
+  },
+  {
+   "id": 1510,
+   "name": "Clark, Jean",
+   "type": "person"
+  },
+  {
+   "id": 1511,
+   "name": "Bell-Syer, H. B.",
+   "type": "person"
+  },
+  {
+   "id": 1512,
+   "name": "Aberdeen University",
+   "type": "institution"
+  },
+  {
+   "id": 1513,
+   "name": "Monroe, John Warne",
+   "type": "person"
+  },
+  {
+   "id": 1514,
+   "name": "N. J., Elizabeth",
+   "type": "person"
+  },
+  {
+   "id": 1515,
+   "name": "Westendarp, Carl",
+   "type": "person"
+  },
+  {
+   "id": 1516,
+   "name": "Heinrich Adolph Meyer",
+   "type": "institution"
+  },
+  {
+   "id": 1519,
+   "name": "Erediauwa",
+   "type": "person"
+  },
+  {
+   "id": 1524,
+   "name": "Ihama, J. E.",
+   "type": "person"
+  },
+  {
+   "id": 1548,
+   "name": "Adamu, Alhaji",
+   "type": "person"
+  },
+  {
+   "id": 1549,
+   "name": "Akinsete, I.",
+   "type": "person"
+  },
+  {
+   "id": 1550,
+   "name": "Omili, E. O.",
+   "type": "person"
+  },
+  {
+   "id": 1551,
+   "name": "Ikpekia",
+   "type": "person"
+  },
+  {
+   "id": 1552,
+   "name": "Eboreime, J.",
+   "type": "person"
+  },
+  {
+   "id": 1553,
+   "name": "Harris, John",
+   "type": "person"
+  },
+  {
+   "id": 1554,
+   "name": "Imumoren, S. O.",
+   "type": "person"
+  },
+  {
+   "id": 1555,
+   "name": "Porteons, C. S.",
+   "type": "person"
+  },
+  {
+   "id": 1571,
+   "name": "Ahammangiwa",
+   "type": "person"
+  },
+  {
+   "id": 1573,
+   "name": "Mutch, H.",
+   "type": "person"
+  },
+  {
+   "id": 1574,
+   "name": "Ejiakpofor",
+   "type": "person"
+  },
+  {
+   "id": 1575,
+   "name": "Denholm, W. M.",
+   "type": "person"
+  },
+  {
+   "id": 1576,
+   "name": "Hudson",
+   "type": "person"
+  },
+  {
+   "id": 1577,
+   "name": "Baessler, Hermann",
+   "type": "person"
+  },
+  {
+   "id": 1578,
+   "name": "Schädler, Karl-Ferdinand",
+   "type": "person"
+  },
+  {
+   "id": 1579,
+   "name": "Statnik, Hermine",
+   "type": "person"
+  },
+  {
+   "id": 1581,
+   "name": "Hainhofer, Philipp",
+   "type": "person"
+  },
+  {
+   "id": 1582,
+   "name": "Gustavus Adolphus",
+   "type": "person"
+  },
+  {
+   "id": 1583,
+   "name": "Stein, Sidler, Ryf & Baur",
+   "type": "institution"
+  },
+  {
+   "id": 1584,
+   "name": "Schweizerische Volksbank, Zürich",
+   "type": "institution"
+  },
+  {
+   "id": 1585,
+   "name": "Meyer, Gustav Friedrich",
+   "type": "person"
+  },
+  {
+   "id": 1586,
+   "name": "Lobsiger-Dellenbach, Marguerite",
+   "type": "person"
+  },
+  {
+   "id": 1587,
+   "name": "Clausen, Gisela J.",
+   "type": "person"
+  },
+  {
+   "id": 1588,
+   "name": "Heye, Theodor",
+   "type": "person"
+  },
+  {
+   "id": 1590,
+   "name": "Spink & Son",
+   "type": "institution"
+  },
+  {
+   "id": 1591,
+   "name": "Menzies",
+   "type": "person"
+  },
+  {
+   "id": 1592,
+   "name": "Demant, Margaret",
+   "type": "person"
+  },
+  {
+   "id": 1593,
+   "name": "Slayter-Ralph, Anthony",
+   "type": "person"
+  },
+  {
+   "id": 1594,
+   "name": "Elder Dempster & Co.",
+   "type": "institution"
+  },
+  {
+   "id": 1595,
+   "name": "Davey, Harold William",
+   "type": "person"
+  },
+  {
+   "id": 1596,
+   "name": "Davey, Lydia",
+   "type": "person"
+  },
+  {
+   "id": 1598,
+   "name": "Brunner-Vontobel, Regula",
+   "type": "person"
+  },
+  {
+   "id": 1599,
+   "name": "Bussel, Leod & Mia van",
+   "type": "person"
+  },
+  {
+   "id": 1601,
+   "name": "Uldry, Pierre",
+   "type": "person"
+  },
+  {
+   "id": 1602,
+   "name": "Kelland, William",
+   "type": "person"
+  },
+  {
+   "id": 1603,
+   "name": "Eugene and Margaret McDermott Art Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1604,
+   "name": "Price, Vincent",
+   "type": "person"
+  },
+  {
+   "id": 1605,
+   "name": "Last, Jay Taylor",
+   "type": "person"
+  },
+  {
+   "id": 1606,
+   "name": "Mace, Guy R.",
+   "type": "person"
+  },
+  {
+   "id": 1607,
+   "name": "Shango Galleries",
+   "type": "institution"
+  },
+  {
+   "id": 1608,
+   "name": "Robert McTear & Co",
+   "type": "institution"
+  },
+  {
+   "id": 1609,
+   "name": "Tingley, J.",
+   "type": "person"
+  },
+  {
+   "id": 1610,
+   "name": "Hider, W. J.",
+   "type": "person"
+  },
+  {
+   "id": 1611,
+   "name": "Cook, E.",
+   "type": "person"
+  },
+  {
+   "id": 1612,
+   "name": "African Collection Fund",
+   "type": "institution"
+  },
+  {
+   "id": 1613,
+   "name": "Weickmann, Christoph",
+   "type": "person"
+  },
+  {
+   "id": 1614,
+   "name": "Lathrop Fellows",
+   "type": "institution"
+  },
+  {
+   "id": 1615,
+   "name": "Bolts, Arthur",
+   "type": "person"
+  },
+  {
+   "id": 1617,
+   "name": "Sanders, Ida & Piet",
+   "type": "person"
+  },
+  {
+   "id": 1618,
+   "name": "Noë, Louis",
+   "type": "person"
+  },
+  {
+   "id": 1619,
+   "name": "Kerchache, Jacques",
+   "type": "person"
+  },
+  {
+   "id": 1621,
+   "name": "Royal Scottish Museum, Edinburgh",
+   "type": "institution"
+  },
+  {
+   "id": 1622,
+   "name": "Blazer, Carel",
+   "type": "person"
+  },
+  {
+   "id": 1623,
+   "name": "Museum Volkenkunde, Leiden",
+   "type": "institution"
+  },
+  {
+   "id": 1625,
+   "name": "Musée d'Ethnographie du Trocadéro, Paris",
+   "type": "institution"
+  },
+  {
+   "id": 1626,
+   "name": "Barnard, T.",
+   "type": "person"
+  },
+  {
+   "id": 1627,
+   "name": "Hassan",
+   "type": "person"
+  },
+  {
+   "id": 1628,
+   "name": "Magniac, Hollingworth",
+   "type": "person"
+  },
+  {
+   "id": 1629,
+   "name": "Willett, Henry",
+   "type": "person"
+  },
+  {
+   "id": 1630,
+   "name": "Maskell, William",
+   "type": "person"
+  },
+  {
+   "id": 1631,
+   "name": "Meyrick, Augustus William Henry",
+   "type": "person"
+  },
+  {
+   "id": 1632,
+   "name": "Willson, Samuel",
+   "type": "person"
+  },
+  {
+   "id": 1633,
+   "name": "Nicholson, Stuart",
+   "type": "person"
+  },
+  {
+   "id": 1634,
+   "name": "Prince Richard",
+   "type": "person"
+  },
+  {
+   "id": 1635,
+   "name": "London Sports Club",
+   "type": "institution"
+  },
+  {
+   "id": 1636,
+   "name": "Forbes, Henry Ogg",
+   "type": "person"
+  },
+  {
+   "id": 1637,
+   "name": "Stead, Hiram",
+   "type": "person"
+  },
+  {
+   "id": 1638,
+   "name": "Stephenson, Eric Seymour",
+   "type": "person"
+  },
+  {
+   "id": 1639,
+   "name": "Laurence",
+   "type": "person"
+  },
+  {
+   "id": 1640,
+   "name": "Hemingway, Elizabeth M. Dorothy (born Allman)",
+   "type": "person"
+  },
+  {
+   "id": 1642,
+   "name": "Okunoghae Guobadia",
+   "type": "person"
+  },
+  {
+   "id": 1643,
+   "name": "Okpaiha",
+   "type": "person"
+  },
+  {
+   "id": 1644,
+   "name": "Lugard, Frederick John Dealtry",
+   "type": "person"
+  },
+  {
+   "id": 1645,
+   "name": "Obahkavhaye, Ben U.",
+   "type": "person"
+  },
+  {
+   "id": 1646,
+   "name": "Ringer, Charles Harding Newman",
+   "type": "person"
+  },
+  {
+   "id": 1647,
+   "name": "Bondy, Walter",
+   "type": "person"
+  },
+  {
+   "id": 1648,
+   "name": "Société des Amis du Musée d'ethnographie du Trocadéro",
+   "type": "institution"
+  },
+  {
+   "id": 1649,
+   "name": "Musée de l'Homme, Paris",
+   "type": "institution"
+  },
+  {
+   "id": 1651,
+   "name": "Girardin, Maurice",
+   "type": "person"
+  },
+  {
+   "id": 1652,
+   "name": "Ortiz, George",
+   "type": "person"
+  },
+  {
+   "id": 1653,
+   "name": "Musée national des Arts d'Afrique et d'Océanie (MNAAO), Paris",
+   "type": "institution"
+  },
+  {
+   "id": 1654,
+   "name": "Musée de la Compagnie des Indes, Lorient",
+   "type": "institution"
+  },
+  {
+   "id": 1655,
+   "name": "Musée du Louvre, Paris",
+   "type": "institution"
+  },
+  {
+   "id": 1656,
+   "name": "Musée d'Archéologie nationale, Saint-Germain-en-Laye",
+   "type": "institution"
+  },
+  {
+   "id": 1657,
+   "name": "Derain, André",
+   "type": "person"
+  },
+  {
+   "id": 1658,
+   "name": "Mosse, Rudolf",
+   "type": "person"
+  },
+  {
+   "id": 1659,
+   "name": "Schnell, Peter",
+   "type": "person"
+  },
+  {
+   "id": 1660,
+   "name": "Mueller, Josef",
+   "type": "person"
+  },
+  {
+   "id": 1662,
+   "name": "Muséum national d'Histoire naturelle, Paris",
+   "type": "institution"
+  },
+  {
+   "id": 1664,
+   "name": "Pittard, Eugène",
+   "type": "person"
+  },
+  {
+   "id": 1665,
+   "name": "Bankfield Museum, Halifax",
+   "type": "institution"
+  },
+  {
+   "id": 1666,
+   "name": "Killerby, B. G. L.",
+   "type": "person"
+  },
+  {
+   "id": 1667,
+   "name": "Agnew, Gerald",
+   "type": "person"
+  },
+  {
+   "id": 1668,
+   "name": "Thomas Agnew & Sons.",
+   "type": "institution"
+  },
+  {
+   "id": 1669,
+   "name": "Loch",
+   "type": "person"
+  },
+  {
+   "id": 1670,
+   "name": "Eyo, Ekpo",
+   "type": "person"
+  },
+  {
+   "id": 2707,
+   "name": "Claus",
+   "type": "person"
+  },
+  {
+   "id": 2708,
+   "name": "Senckenberg Gesellschaft für Naturforschung",
+   "type": "institution"
+  },
+  {
+   "id": 2709,
+   "name": "Historisches Museum, Frankfurt",
+   "type": "institution"
+  },
+  {
+   "id": 2710,
+   "name": "R. S.",
+   "type": "person"
+  },
+  {
+   "id": 2711,
+   "name": "Bareiss, Walter & Molly",
+   "type": "person"
+  },
+  {
+   "id": 2715,
+   "name": "Ben Heller, Inc.",
+   "type": "institution"
+  },
+  {
+   "id": 2755,
+   "name": "Sampson, John Harold",
+   "type": "person"
+  },
+  {
+   "id": 2756,
+   "name": "Osarogiagbon",
+   "type": "person"
+  },
+  {
+   "id": 2782,
+   "name": "Hannema, Dirk",
+   "type": "person"
+  },
+  {
+   "id": 2783,
+   "name": "Weidler, Charlotte",
+   "type": "person"
+  },
+  {
+   "id": 2784,
+   "name": "Louis V. Bell Fund",
+   "type": "institution"
+  },
+  {
+   "id": 2785,
+   "name": "Isaacs (Jr.)",
+   "type": "person"
+  },
+  {
+   "id": 2786,
+   "name": "Isaacs (Sr.)",
+   "type": "person"
+  },
+  {
+   "id": 2787,
+   "name": "Small Nash, Judith",
+   "type": "person"
+  },
+  {
+   "id": 2788,
+   "name": "Judith Small Nash Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 2789,
+   "name": "Brown, Mary Elizabeth Adams",
+   "type": "person"
+  },
+  {
+   "id": 2936,
+   "name": "Grayson Gallery",
+   "type": "institution"
+  },
+  {
+   "id": 2937,
+   "name": "E. Hardey Adriance Fine Arts Acquisition Fund",
+   "type": "institution"
+  }
+ ]
+}

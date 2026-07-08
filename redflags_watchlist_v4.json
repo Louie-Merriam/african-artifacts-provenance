@@ -1,0 +1,55 @@
+{
+  "_comment": "v4 watchlist. Adds DATE-INDEPENDENT signals so laundered/late acquisitions are caught, not just objects acquired inside an episode's date window: (1) named_actors (dealers/officers) fire whenever they appear in provenance, any year; (2) object-type x origin priors (a Benin brass plaque, an Ethiopian tabot) fire on identity+origin, any year; (3) a standalone punitive_expedition method; date is now a confidence BOOSTER, not a gate. Modern/depiction mitigations do NOT suppress actor/prior/loot/method/remains hits. Broadened episodes: + Seringapatam 1799, Indian uprising 1857; expanded Sudan window. All matching is word-boundary over PROVENANCE fields (not the object Description).",
+
+  "provenance_fields": ["Acq notes (acq)", "Acq notes (exc)", "Curators Comments", "Acq name (acq)", "Acq name (previous)", "Acq name (excavator)", "Find spot", "Production place", "Culture"],
+
+  "episodes": [
+    {"id": "benin_1897",         "core": ["benin city", "great benin", "oba of benin", "benin expedition", "benin punitive"], "region": ["benin", "edo", "bini", "nigeria"], "years": [1897, 1915], "priors": ["brass plaque", "brass head", "bronze head", "commemorative head", "ivory mask", "hip mask", "altar tusk", "benin bronze", "aquamanile"]},
+    {"id": "maqdala_1868",       "core": ["maqdala", "magdala"], "region": ["abyssinia", "ethiopia"], "years": [1867, 1872], "priors": ["tabot", "processional cross", "geez", "manuscript", "icon"]},
+    {"id": "asante_wars",        "core": ["kumasi", "kumase", "coomassie", "manhyia", "bantama", "asantehene", "prempeh"], "region": ["asante", "ashanti", "gold coast", "ghana"], "years": [1874, 1901], "priors": ["soul disc", "soul washer", "kuduo", "akrafokonmu", "gold regalia"]},
+    {"id": "dahomey_1892",       "core": ["abomey", "behanzin", "danxome"], "region": ["dahomey"], "years": [1892, 1896], "priors": ["bocio", "asen", "royal throne"]},
+    {"id": "sudan_omdurman_1898","core": ["omdurman", "mahdist", "khalifa", "mahdi"], "region": ["sudan", "khartoum"], "years": [1885, 1901], "priors": ["jibba", "mahdist banner"]},
+    {"id": "summer_palace_1860", "core": ["yuanmingyuan", "summer palace", "yuan ming yuan"], "region": ["beijing", "peking", "pekin", "china"], "years": [1860, 1864], "priors": ["imperial seal", "cloisonn", "imperial porcelain"]},
+    {"id": "tibet_1904",         "core": ["lhasa", "gyantse", "younghusband"], "region": ["tibet"], "years": [1904, 1907], "priors": ["thangka"]},
+    {"id": "seringapatam_1799",  "core": ["seringapatam", "srirangapatna", "tipu", "tippoo"], "region": ["mysore", "india"], "years": [1799, 1815], "priors": ["tiger", "huma bird"]},
+    {"id": "india_1857",         "core": ["lucknow", "kaisarbagh", "delhi", "mutiny"], "region": ["india", "oudh", "awadh"], "years": [1857, 1865], "priors": []},
+    {"id": "zulu_1879",          "core": ["ulundi", "cetshwayo", "isandlwana"], "region": ["zulu", "zululand", "south africa"], "years": [1879, 1884], "priors": []},
+    {"id": "matabele_1893",      "core": ["bulawayo", "lobengula", "matabele", "ndebele"], "region": ["matabeleland", "mashonaland", "rhodesia", "zimbabwe"], "years": [1893, 1902], "priors": []},
+    {"id": "great_zimbabwe",     "core": ["great zimbabwe", "soapstone bird", "zimbabwe bird"], "region": ["mashonaland", "rhodesia", "zimbabwe"], "years": [1889, 1910], "priors": ["soapstone bird"]},
+    {"id": "sokoto_1903",        "core": ["sokoto", "kano", "bida", "burmi"], "region": ["nigeria", "nupe", "hausa", "fulani"], "years": [1897, 1906], "priors": ["arabic manuscript"]},
+    {"id": "aro_1902",           "core": ["arochukwu", "long juju", "ibini ukpabi"], "region": ["nigeria", "igbo"], "years": [1901, 1906], "priors": []},
+    {"id": "herero_nama_1904",   "core": ["herero", "nama", "witbooi"], "region": ["namibia", "german south-west africa"], "years": [1904, 1915], "priors": ["human remains", "skull"]},
+    {"id": "congo_free_state",   "core": ["kuba", "luba", "nkisi", "minkisi", "ndop", "mangaaka", "nkisi nkondi"], "region": ["congo", "kongo"], "years": [1885, 1920], "priors": ["nkisi", "power figure", "ndop"]},
+    {"id": "bamum_cameroon",     "core": ["bamum", "njoya", "foumban"], "region": ["cameroon", "kamerun"], "years": [1884, 1918], "priors": ["beaded throne"]},
+    {"id": "madagascar_1895",    "core": ["antananarivo", "merina", "ranavalona", "rova"], "region": ["madagascar"], "years": [1895, 1905], "priors": []},
+    {"id": "segou_1890",         "core": ["segou", "tukulor", "umar tall", "ahmadou", "archinard"], "region": ["mali", "french sudan"], "years": [1890, 1900], "priors": []},
+    {"id": "gaza_1895",          "core": ["gungunhana", "ngungunyane", "gaza empire"], "region": ["mozambique"], "years": [1895, 1905], "priors": []},
+    {"id": "italian_ethiopia",   "core": ["aksum", "axum", "lion of judah"], "region": ["ethiopia"], "years": [1935, 1945], "priors": []}
+  ],
+
+  "_named_actors_note": "Seed officers/dealers + a curated high-value subset of the Digital Benin provenance registry (digitalbenin.org/provenance). The FULL ~954-entry registry (2,098 alias variants) lives in digitalbenin_actors.json, which bm_flag_v4.py auto-merges when present in the same folder. These are full 'Surname, Forename' / firm names, so matches are high-precision.",
+  "named_actors": ["pitt-rivers", "pitt rivers", "w. d. webster", "w.d. webster", "webster, william", "oldman", "ralph moor", "sir ralph moor", "r. r. holmes", "r.r. holmes", "holmes, richard", "tristram speedy", "captain speedy", "garnet wolseley", "harry rawson", "admiral rawson", "reginald bacon", "henry gallwey", "cyril punch", "tregaskis", "david baird",
+    "Bey & Co.", "Stevens Auction Rooms", "L. Pagenstecher & Co.", "Fenton & Sons", "Parke-Bernet Galleries", "Berkeley Galleries", "Glendining & Co", "Oscar Kaiser & Co.", "John Wise Ltd. Galleries", "M. Knoedler & Co.", "Stolper Galleries", "Robert McTear & Co", "Thomas Agnew & Sons", "Rudolph Lepke", "Jacques Seligmann & Company", "Elder Dempster & Co.", "E. Wiggerts & Co.",
+    "Webster, William Downing", "Oldman, William Ockelford", "Bey, Heinrich", "Baessler, Arthur", "Thomas, Northcote Whitridge", "Fuller, Alfred Walter Francis", "Hooper, James Thomas", "Seton-Karr, Heywood Walter", "Gurlitt, Hildebrand", "Hirshhorn, Joseph Herman", "Lugard, Frederick John Dealtry", "Cockburn, William Alexander Crawford", "Meyer, Hermann August Heinrich", "Partridge, Charles Stanley", "Minassian, Adrienne", "Janson, Oliver Erichson", "Seligmann, Jacques", "Heeramaneck, Alice & Nasli", "Bates, Oric", "Swainson, John Henry",
+    "von Luschan", "Charles Ratton", "K.J. Hewett", "Kenneth Hewett", "Ridyard", "Quaritch", "Herbert Ward", "Josef Mueller", "Arthur Speyer", "Merton Simpson", "William Ohly", "Berkeley Galleries", "Everard im Thurn"],
+
+  "loot_language": ["looted", "loot of", "plunder", "plundered", "pillage", "sack of", "sacked", "spoils", "war booty", "prize of war", "taken from", "taken at", "taken during", "captured at", "captured during", "captured from", "seized", "removed from the palace", "booty"],
+  "methods": ["punitive expedition", "punitive raid", "expeditionary force", "military expedition", "naval expedition", "relief expedition"],
+  "military_rank": ["general", "colonel", "captain", "major", "lieutenant", "admiral", "brigadier", "commander", "field marshal", "sergeant", "expeditionary force", "regiment", "fusiliers", "hussars"],
+  "donation_verbs": ["presented by", "donated by", "gift of", "bequeathed by", "given by"],
+  "colonial_channels": ["gold coast government", "colonial office", "foreign office", "crown agents", "royal niger company", "east india company", "niger coast protectorate", "imperial british east africa", "sudan government", "government of india"],
+  "depiction_types": ["print", "drawing", "photograph", "photo", "sketch", "painting", "engraving", "etching", "watercolour", "lithograph", "postcard", "aquatint", "mezzotint"],
+  "numismatic_types": ["coin", "banknote", "medal", "token", "medallion", "jeton", "paper money"],
+  "sacred_regalia": ["tabot", "altar", "shrine", "reliquary", "regalia", "sacred", "ceremonial", "idol", "funerary", "ark of the covenant"],
+  "human_remains": ["human remains", "skull", "cranium", "skeleton", "mummy", "mummified", "ancestral remains"],
+  "foreign_findspot_terms": ["benin", "nigeria", "ethiopia", "abyssinia", "ghana", "asante", "sudan", "china", "beijing", "tibet", "dahomey", "india", "mysore", "egypt", "africa", "palace", "zulu", "zululand", "south africa", "zimbabwe", "rhodesia", "matabeleland", "mashonaland", "congo", "kongo", "namibia", "cameroon", "madagascar", "mali", "segou", "mozambique", "kenya", "uganda", "tanganyika", "sokoto", "kano", "kumasi"],
+
+  "weights": {
+    "episode_strong": 6, "episode_prior": 5, "episode_context": 5, "origin_prior": 4, "region_year": 4,
+    "named_actor": 5, "loot_language": 6, "punitive_expedition": 4, "military_donor": 4,
+    "colonial_channel": 3, "royal_or_palace_site": 3, "expedition_collected": 3,
+    "human_remains": 4, "sacred_regalia": 2
+  },
+  "mitigations": {"modern_year_threshold": 1960, "modern_cap": 1, "depiction_cap": 2, "palace_year_max": 1925},
+  "bands": {"strong": 6, "review": 3}
+}

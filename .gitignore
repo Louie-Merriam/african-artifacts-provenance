@@ -1,0 +1,24 @@
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+
+# large raw outputs — compressed .gz versions are tracked instead
+out/full_adjudicated.jsonl
+out/full_adjudicated_review_queue.jsonl
+
+# run-state and duplicate/intermediate artifacts (regenerable)
+out/full_adjudicated.stream.jsonl
+out/full_adjudicated.batches.json
+out/haiku*
+analysis_out/_corpus_part*.csv
+analysis_out/rq_p*.jsonl
+analysis_out/review_queue_v5.*
+analysis_out/full_records.*
+analysis_out/haiku_africa_patched_records.*
+analysis_out/dryrun*
+analysis_out/v5_full_run.log
+
+# never commit credentials
+.env
+*.key
