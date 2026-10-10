@@ -157,6 +157,7 @@ HTML = """<!DOCTYPE html><html><head><meta charset="utf-8">
  #map{height:100%}
  .panel{position:absolute;z-index:1000;background:rgba(255,255,255,.94);border-radius:8px;
         box-shadow:0 1px 8px rgba(0,0,0,.25);padding:10px 14px;font-size:13px;line-height:1.45}
+ .leaflet-tile-pane{filter:grayscale(1) brightness(1.06) contrast(.88)}
  #title{top:12px;left:54px;max-width:520px}
  #title h1{margin:0 0 2px;font-size:17px} #title p{margin:2px 0;color:#444;font-size:12px}
  #controls{bottom:18px;left:12px}
@@ -170,10 +171,10 @@ HTML = """<!DOCTYPE html><html><head><meta charset="utf-8">
 <div id="map"></div>
 <div class="panel" id="title">
  <h1>African artifacts in the British Museum — origins and routes</h1>
- <p>__MAPPED__ of __TOTAL__ records mapped · circle size = number of objects · colour = share judged
- <b style="color:#c62828">unfair</b> by the Haiku adjudicator · arcs show movement to the BM, routed through a
- dealer/museum hub when the documented chain names one (Umlauff→Hamburg, Ratton→Paris, Pareyn→Brussels…).</p>
- <p style="color:#666">Verdicts are automated <i>review signals from documented provenance associations — not determinations</i>. __UNMAPPED__ records had unmappable place text; __SKIP__ UK-made records (e.g. BM photographs), __SKIPASIA__ Asia-department records (Japanese Edo-period material caught by the corpus's 'Edo' keyword slice), and __SKIPNONAF__ other non-African origins are omitted.</p>
+ <p>__MAPPED__ records mapped · circle size = number of objects · colour = share judged
+ <b style="color:#c62828">unfair</b> by the Haiku adjudicator · arcs show movement to the BM, routed through
+ intermediaries when the documented chain names one (Umlauff→Hamburg, Ratton→Paris, Pareyn→Brussels…).</p>
+ <p style="color:#666">Verdicts were decided by an AI analysis of documented provenances. These should not be treated as final determinations, but rather as flags for further human review. __UNMAPPED__ records had unmappable information; __SKIP__ UK-made records (BM photographs) and __SKIPNONAF__ other non-African origins are omitted.</p>
 </div>
 <div class="panel" id="controls"><b>Show verdicts</b><div id="checks"></div></div>
 <div class="panel" id="legend">
@@ -187,8 +188,9 @@ HTML = """<!DOCTYPE html><html><head><meta charset="utf-8">
 <script>
 const DATA = __DATA__;
 const map = L.map('map',{worldCopyJump:true}).setView([14,10],3);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
- {attribution:'&copy; OpenStreetMap contributors &copy; CARTO', subdomains:'abcd', maxZoom:10}).addTo(map);
+// OpenStreetMap's own tiles need no API key (CARTO's basemaps now do); greyed via CSS to keep the muted look
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+ {attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom:10}).addTo(map);
 
 const active = new Set(DATA.cats);
 const layer = L.layerGroup().addTo(map);
